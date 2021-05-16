@@ -25,7 +25,6 @@ pipeline:
   epochs: 250
   batch_size: 256
   use_masked_language_model: True
-  tensorboard_log_directory: tensorboard
 - name: FallbackClassifier
   threshold: 0.75
 - name: "EntitySynonymMapper"
