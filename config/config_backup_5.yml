@@ -11,7 +11,7 @@ pipeline:
   cache_dir: null
 - name: "LanguageModelTokenizer"
   # Flag to check whether to split intents
-  "intent_tokenization_flag": False
+  "intent_tokenization_flag": True
   # Symbol on which intent should be split
   "intent_split_symbol": "_"
 - name: "RegexFeaturizer"
@@ -35,9 +35,9 @@ pipeline:
 # https://rasa.com/docs/rasa/core/policies/
 policies:
   - name: MemoizationPolicy
-    max_history: 5
+    max_history: 7
   - name: TEDPolicy
-    max_history: 5
+    max_history: 7
     random_seed: 42
-    epochs: 300
+    epochs: 220
   - name: RulePolicy
