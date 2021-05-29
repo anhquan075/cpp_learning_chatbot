@@ -22,9 +22,11 @@ pipeline:
   model_weights: "roberta-large"
   cache_dir: null
 - name: "DIETClassifier"
-  epochs: 250
+  epochs: 50
   batch_size: 256
   use_masked_language_model: True
+  tensorboard_log_directory: "./results/tensorboard"
+  tensorboard_log_level: "epoch"
 - name: FallbackClassifier
   threshold: 0.75
 - name: "EntitySynonymMapper"
