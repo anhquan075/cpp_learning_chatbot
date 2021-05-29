@@ -1,0 +1,7114 @@
+[
+  {
+    "text": "A L\u00d4",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.9213805794715881
+    }
+  },
+  {
+    "text": "HEYYY",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.6944132447242737
+    }
+  },
+  {
+    "text": "H\u00ca L\u00d4 NG\u01af\u1edcI ANH EM",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.43778619170188904
+    }
+  },
+  {
+    "text": "EE BANJ EEII",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.6675854325294495
+    }
+  },
+  {
+    "text": "YO YO YO",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.5064014196395874
+    }
+  },
+  {
+    "text": "\u00ca C\u01afNG",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.6626203656196594
+    }
+  },
+  {
+    "text": "\u00ea",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6587848663330078
+    }
+  },
+  {
+    "text": "hello m\u00e0y",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.6277948021888733
+    }
+  },
+  {
+    "text": "alo m\u00e0y",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.6074619293212891
+    }
+  },
+  {
+    "text": "\u00ea m\u00e0y",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.5912494659423828
+    }
+  },
+  {
+    "text": "ee banj eeii",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.8651297688484192
+    }
+  },
+  {
+    "text": "\u00ca c\u01b0ng",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.4389945864677429
+    }
+  },
+  {
+    "text": "T\u00c1C GI\u1ea2 L\u00c0 AI",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9992538094520569
+    }
+  },
+  {
+    "text": "WHO CREATED YOU ?",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.4448593854904175
+    }
+  },
+  {
+    "text": "WHO IS THE AUTHOR OF THIS PROJECT",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.6933976411819458
+    }
+  },
+  {
+    "text": "Who is the author of this project",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.23327481746673584
+    }
+  },
+  {
+    "text": "c\u00e1ch b\u1ea1n \u0111\u01b0\u1ee3c t\u1ea1o ra",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.7669033408164978
+    }
+  },
+  {
+    "text": "hei",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.7022013664245605
+    }
+  },
+  {
+    "text": "\u00e0 l\u00f4",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.976282000541687
+    }
+  },
+  {
+    "text": "ALOOOOO",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9953749179840088
+    }
+  },
+  {
+    "text": "T NGH\u0128 CH\u1eaeC M M\u00c3I KH\u1eceE TH\u00d4I M\u00c0 NH\u1ec8",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.5688039064407349
+    }
+  },
+  {
+    "text": "m th\u00ec sao, \u1edf \u0111\u00f3 m\u00e0 h\u1ecfi tao",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.985487163066864
+    }
+  },
+  {
+    "text": "Minh van khoe, con ban",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9791993498802185
+    }
+  },
+  {
+    "text": "I'm ok, about ya?",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.7601596713066101
+    }
+  },
+  {
+    "text": "Excellent, and u?",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.4303061366081238
+    }
+  },
+  {
+    "text": "How about u?",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8371238708496094
+    }
+  },
+  {
+    "text": "m\u00ecnh kh\u1ecfe, c\u00f2n b\u1ea1n?",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.9204397201538086
+    }
+  },
+  {
+    "text": "c\u00fat c\u00fat c\u00fat",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.3054952621459961
+    }
+  },
+  {
+    "text": "d\u1eb9p",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.9044368863105774
+    }
+  },
+  {
+    "text": "ch\u1ee9 c\u00f2n g\u00ec n\u1eefa",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.22109320759773254
+    }
+  },
+  {
+    "text": "chu\u1ea9n x\u00e1c lu\u00f4n",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.4962344467639923
+    }
+  },
+  {
+    "text": "chu\u1ea9n qu\u00e1 ta",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.8007665276527405
+    }
+  },
+  {
+    "text": "\u0111\u00fang r\u00f2i",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6083266139030457
+    }
+  },
+  {
+    "text": "Ok ch\u1edd x\u00ed",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "time",
+      "confidence": 0.3176411986351013
+    }
+  },
+  {
+    "text": "Ok n\u00e8 \u0111\u1ee3i t\u00ed",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.9616498351097107
+    }
+  },
+  {
+    "text": "okay \u0111\u1ee3i t suy ngh\u0129 ch\u00fat",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.8587169647216797
+    }
+  },
+  {
+    "text": "QU\u00c1 CHU\u1ea8N",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.9835158586502075
+    }
+  },
+  {
+    "text": "QU\u00c1 \u0110\u00daNG LU\u00d4N NG\u01af\u1edcI ANH EM",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4266888499259949
+    }
+  },
+  {
+    "text": "b\u1ea1n ch\u1eadm hi\u1ec3u th\u1ebf",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "want_to_practice_flowchart",
+      "confidence": 0.3504163324832916
+    }
+  },
+  {
+    "text": "\u0110\u00e9o :))\t",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8956778645515442
+    }
+  },
+  {
+    "text": "TR\u1eacT CMNR",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.5608443021774292
+    }
+  },
+  {
+    "text": "you wrong",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.8840428590774536
+    }
+  },
+  {
+    "text": "Wrong r\u1ed3i ku \u01a1i",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.5379865169525146
+    }
+  },
+  {
+    "text": "trat lat",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.6194319128990173
+    }
+  },
+  {
+    "text": "Trat cmnr",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.2753225862979889
+    }
+  },
+  {
+    "text": "Deo phai nhu vay dau",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.4461800754070282
+    }
+  },
+  {
+    "text": "QU\u00c1 \u0110\u00c3",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.3812554180622101
+    }
+  },
+  {
+    "text": "QU\u00c1 VIP LU\u00d4N",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.8766516447067261
+    }
+  },
+  {
+    "text": "VE RI G\u00daT",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.23952645063400269
+    }
+  },
+  {
+    "text": "very good",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.9281154274940491
+    }
+  },
+  {
+    "text": "Y\u00eau",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.34622377157211304
+    }
+  },
+  {
+    "text": "qu\u00e1 chu\u1ea9n lu\u00f4n",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.8186860084533691
+    }
+  },
+  {
+    "text": "Qu\u00e1 gi\u1ecfi",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.5447123050689697
+    }
+  },
+  {
+    "text": "ngoan l\u1eafm",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.49079808592796326
+    }
+  },
+  {
+    "text": "woww x\u1ecbn x\u00f2 v",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.4419615566730499
+    }
+  },
+  {
+    "text": "M\u00ccNH C\u1ea2M \u01a0N \u1ea0",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.6706017851829529
+    }
+  },
+  {
+    "text": "\u0111\u1ed9i \u01a1n",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.45474302768707275
+    }
+  },
+  {
+    "text": "arigatoi",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.40550097823143005
+    }
+  },
+  {
+    "text": "Th\u1eadt s\u1ef1 kh\u00f4ng bi\u1ebft ph\u1ea3i c\u00e1m \u01a1n m sao cho \u0111\u1ee7 \u0111\u00e2y",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "dont_want_to_give_flowchart_quest_num",
+      "confidence": 0.5119916796684265
+    }
+  },
+  {
+    "text": "Kh\u00f4ng bi\u1ebft n\u00ean c\u00e1m \u01a1n sao cho v\u1eeba \u0111\u00e2y",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.4430992007255554
+    }
+  },
+  {
+    "text": "C\u1ee9 t\u1ea1m g\u1ecdi l\u00e0 \u1ed5n \u0111i",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.7959731817245483
+    }
+  },
+  {
+    "text": "\u1ed5n",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.9154298305511475
+    }
+  },
+  {
+    "text": "Very very good",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.9392012357711792
+    }
+  },
+  {
+    "text": "Excellent sir",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9994059801101685
+    }
+  },
+  {
+    "text": "Today I feel so good",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.8031427264213562
+    }
+  },
+  {
+    "text": "Ngu qu\u00e1",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.827709436416626
+    }
+  },
+  {
+    "text": "S\u1ee6A L\u00caN",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.5741812586784363
+    }
+  },
+  {
+    "text": "\u01110^` nGU",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.34595030546188354
+    }
+  },
+  {
+    "text": "\u0110\u1ed3 G\u00e0",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7273634076118469
+    }
+  },
+  {
+    "text": "s\u1ee7a l\u00ean",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8215919733047485
+    }
+  },
+  {
+    "text": "lol m\u00e1 m",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5528573393821716
+    }
+  },
+  {
+    "text": "you mentally retarded",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5394668579101562
+    }
+  },
+  {
+    "text": "con c\u1eb7c l\u00e0 g\u00ec",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9878705739974976
+    }
+  },
+  {
+    "text": "L\u00e0m sao \u0111\u1ec3 qua m\u00f4n CS1 c\u1ee7a th\u1ea7y Ti\u1ebfn",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.7438579797744751
+    }
+  },
+  {
+    "text": "bu\u1ed3n",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.8382230401039124
+    }
+  },
+  {
+    "text": "t\u1ec7 h\u1ea1i",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5133728981018066
+    }
+  },
+  {
+    "text": "M\u00ecnh th\u1eadt s\u1ef1 mu\u1ed1n kh\u00f3c",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.4405646026134491
+    }
+  },
+  {
+    "text": "k vui l\u1eafm \u0111\u01b0\u1ee3c ch\u01b0a",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.8395468592643738
+    }
+  },
+  {
+    "text": "bi\u1ebfn \u0111i em",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3231675326824188
+    }
+  },
+  {
+    "text": "HOIII",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.47222036123275757
+    }
+  },
+  {
+    "text": "deo",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9221240282058716
+    }
+  },
+  {
+    "text": "Ki",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4430953562259674
+    }
+  },
+  {
+    "text": "h\u1ecfi th\u00eam c\u00e1i nh\u1eb9 n\u00e8",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.7362105250358582
+    }
+  },
+  {
+    "text": "N\u00f3 ch\u1ea1y nh\u01b0 th\u1ebf no\u00e0",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9885947704315186
+    }
+  },
+  {
+    "text": "h\u1ecfi c\u00e1i",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.6536216735839844
+    }
+  },
+  {
+    "text": "Yo h\u1ecfi n\u00e0y coi",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "date",
+      "confidence": 0.49515148997306824
+    }
+  },
+  {
+    "text": "H\u1ecfi l\u1ea1i l\u1ea7n n\u1eefa",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.2557183504104614
+    }
+  },
+  {
+    "text": "to\u00e1n r\u1eddi r\u1ea1c l\u00e0 g\u00ec",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9074578881263733
+    }
+  },
+  {
+    "text": "R\u1edbt m\u00f4n r\u1ed3i l\u00e0m sao b\u00e2y gi\u1edd",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.9284360408782959
+    }
+  },
+  {
+    "text": "hmmm is this a bug ??",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8027331829071045
+    }
+  },
+  {
+    "text": "\u0102n t\u1ebft ch\u01b0a \u1ea1",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "thanks",
+      "confidence": 0.5385375618934631
+    }
+  },
+  {
+    "text": ".cpp l\u00e0 g\u00ec",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9994164109230042
+    }
+  },
+  {
+    "text": "Con tr\u1ecf trong C++ chi\u1ebfm bao nhi\u00eau b\u1ed9 nh\u1edb v\u00e0 k\u00edch th\u01b0\u1edbc c\u1ee7a ch\u00fang c\u00f3 b\u1eb1ng nhau kh\u00f4ng?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9941462874412537
+    }
+  },
+  {
+    "text": "Con tro\u0309 trong C++ chie\u0302\u0301m bao nhie\u0302u bo\u0323\u0302 nho\u031b\u0301?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9900458455085754
+    }
+  },
+  {
+    "text": "Noi gi do yeu thuong toi di !",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.24774868786334991
+    }
+  },
+  {
+    "text": "Noi gi do yeu thuong tui di.",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.5360434651374817
+    }
+  },
+  {
+    "text": "Sao c\u1ee9 c\u00e0ng code c\u00e0ng bug v\u1eady bro",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.9606828689575195
+    }
+  },
+  {
+    "text": "Jejeksskajs",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9482213854789734
+    }
+  },
+  {
+    "text": "\u00f3 \u00f3 \u00f3",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.36334651708602905
+    }
+  },
+  {
+    "text": "b\u1ed1 \u01a1i m\u00ecnh \u0111i \u0111\u00e2u th\u1ebf",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7858594655990601
+    }
+  },
+  {
+    "text": "tui k bi\u1ebft ph\u1ea3i h\u1ecfi g\u00ec h\u1ebft",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.7808600068092346
+    }
+  },
+  {
+    "text": "th\u1eddi ti\u1ebft h\u00f4m nay t\u1ea1i th\u1ee7 \u0111\u1ee9c",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.5770988464355469
+    }
+  },
+  {
+    "text": "nay h\u1ecdp team \u1edf \u0111\u00e2u v",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_where_asking",
+      "confidence": 0.7645946741104126
+    }
+  },
+  {
+    "text": "h\u1ea3i quay xe",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.4342699348926544
+    }
+  },
+  {
+    "text": "\u0103n kem th\u1ee7 \u0111\u1ee9c \u1edf qu\u00e1n n\u00e0o th\u00ec ngon",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.584416925907135
+    }
+  },
+  {
+    "text": "solo yasuo k",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.25885671377182007
+    }
+  },
+  {
+    "text": "em mu\u1ed1n l\u00e1i ch\u1ecb",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.28530848026275635
+    }
+  },
+  {
+    "text": "thu\u1eadt to\u00e1n ph\u00e2n lo\u1ea1i",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "who_create_you",
+      "confidence": 0.4187435507774353
+    }
+  },
+  {
+    "text": "dynamic programming",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.3219403922557831
+    }
+  },
+  {
+    "text": "Iwiwiwiwoejieue",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5598853230476379
+    }
+  },
+  {
+    "text": "RAM l\u00e0 g\u00ec?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9998154640197754
+    }
+  },
+  {
+    "text": "Doi net ve nha tho Xuan Dieu.",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.509314239025116
+    }
+  },
+  {
+    "text": "mikami l\u00e0 ai",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9987644553184509
+    }
+  },
+  {
+    "text": "B\u1ea1n gi\u1ea3i b\u00e0i gi\u00fap m\u00ecnh \u0111\u01b0\u1ee3c kh\u00f4ng?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.4640505909919739
+    }
+  },
+  {
+    "text": "to\u00e1n r\u1eddi r\u1ea1c",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.21906466782093048
+    }
+  },
+  {
+    "text": "cau truc dieu khien vi du",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.7028494477272034
+    }
+  },
+  {
+    "text": "eg v\u1ec1 h\u00e0m",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.738611102104187
+    }
+  },
+  {
+    "text": "cho minh 1 cai example ve if thu coi ne",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.47375696897506714
+    }
+  },
+  {
+    "text": "Recursion vi du",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8251144886016846
+    }
+  },
+  {
+    "text": "V\u00d2NG WHILE?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.44833698868751526
+    }
+  },
+  {
+    "text": "NTN LA KIEU LIET KE VAY A",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.8915017247200012
+    }
+  },
+  {
+    "text": "cho v\u00e0i t\u00ed x\u00edu review v\u1ec1 m\u00f4n nmlt \u0111i bot",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "want_to_practice_cpp",
+      "confidence": 0.40116074681282043
+    }
+  },
+  {
+    "text": "em mu\u1ed1n bi\u1ebft th\u00eam v\u1ec1 if else th\u1ea7y \u1ea1",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.8345575928688049
+    }
+  },
+  {
+    "text": "\u0110\u1ec7 quy",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.8321919441223145
+    }
+  },
+  {
+    "text": "trong c++ variable \u0111\u01b0\u1ee3c \u0111\u1ecbnh ngh\u0129a nh\u01b0 th\u1ebf n\u00e0o?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9652707576751709
+    }
+  },
+  {
+    "text": "vong While?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.4528915286064148
+    }
+  },
+  {
+    "text": "Can you tell me somethin' about binary operator?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "dont_want_to_give_flowchart_quest_num",
+      "confidence": 0.5748537182807922
+    }
+  },
+  {
+    "text": "\u00d3c lz bot n\u00f3i Arithmetic operator \u0111i",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.45468708872795105
+    }
+  },
+  {
+    "text": "Mot cau truc dieu khien la ntn",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9896040558815002
+    }
+  },
+  {
+    "text": "if else if ladder l\u00e0 g\u00ec",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5954414010047913
+    }
+  },
+  {
+    "text": "th\u1ebf n\u00e0o l\u00e0 m\u1ed9t c\u00e1i if l\u1ed3ng if v ak",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6728456020355225
+    }
+  },
+  {
+    "text": "cho t\u00f4i bi\u1ebft c\u00e1c kh\u00e1i ni\u1ec7m sau: h\u00e0m, ki\u1ec3u tr\u1ea3 v\u1ec1 v\u00e0 \u0111\u1ec7 quy",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9669181108474731
+    }
+  },
+  {
+    "text": "Cai tu khoa static khi di chung voi viec khai bao bien thi no co su khac biet gi k bot",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.7271137833595276
+    }
+  },
+  {
+    "text": "Su dung tu khoa static khi minh khai bao mot bien thi co them tac dung gi k bot?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9748067259788513
+    }
+  },
+  {
+    "text": "Nao lz bot biet gi ve arithmetic operator khong ?!",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.8806192874908447
+    }
+  },
+  {
+    "text": "VI\u1ebeT M\u1ea2NG M\u1ed8T CHI\u1ec0U TH\u00cc VI\u1ebeT NH\u01af TH\u1ebe N\u00c0O \u0110\u00c2Y BOT?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9991691708564758
+    }
+  },
+  {
+    "text": "T\u1ea1o m\u1ea3ng ki\u1ec3u g\u00ec v\u1eady ?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9631453156471252
+    }
+  },
+  {
+    "text": "vi\u1ebft m\u1ed9t v\u00f2ng l\u1eb7p for trong c++ th\u00ec ph\u1ea3i l\u00e0m nh\u1eefng g\u00ec?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9798251390457153
+    }
+  },
+  {
+    "text": "Kieu du lieu wchar-t dung kieu j v bot?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.6129237413406372
+    }
+  },
+  {
+    "text": "Viet mang mot chieu thi viet nhu the nao day bot?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.5821724534034729
+    }
+  },
+  {
+    "text": "\u0110\u1eccC TRONG S\u00c1CH TH\u1ea4Y NG\u01af\u1edcI TA B\u1ea2O M\u00ccNH N\u00caN X\u00c0I H\u00c0M MACRO M\u1ed6I KHI VI\u1ebeT CODE?",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9712323546409607
+    }
+  },
+  {
+    "text": "STRUCT, NGUY\u00caN C\u01a0 N\u00c0O M\u00c0 PH\u1ea2I C\u00d3 N\u00d3?",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.7328149676322937
+    }
+  },
+  {
+    "text": "KI\u1ec2U ENUM C\u00d3 CC G\u00cc M\u00c0 TAO C\u1ea6N PH\u1ea2I H\u1eccC V\u1ec0 N\u00d3?",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.6155940294265747
+    }
+  },
+  {
+    "text": "D\u00d9NG BI\u1ebeN T\u0128NH CHI V M",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9391545057296753
+    }
+  },
+  {
+    "text": "comment khi l\u1eadp tr\u00ecnh c++ \u0111\u1ec3 l\u00e0m c\u00e1i lz g\u00ec v?",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8661895990371704
+    }
+  },
+  {
+    "text": "L\u1ed3n m\u00e1, l\u1eadp tr\u00ecnh \u0111\u00e3 kh\u00f3 r\u1ed3i m\u00e0 sao ng\u01b0\u1eddi ta c\u00f2n l\u00e0m th\u00eam c\u00e1i \u0111\u1ec7 quy chi v\u1eady bot \u01a1i huhu",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8545740842819214
+    }
+  },
+  {
+    "text": "kieu enum co cc gi ma tao can phai hoc ve no?",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9164690375328064
+    }
+  },
+  {
+    "text": "dung bien tinh chi v m",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.722848117351532
+    }
+  },
+  {
+    "text": "vi s t lai phai hoc cai mon nhap mon lap trinh xam lz v",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "dont_want_to_give_flowchart_quest_num",
+      "confidence": 0.9617739915847778
+    }
+  },
+  {
+    "text": "n\u00ean s\u1eed d\u1ee5ng library l\u00fac n\u00e0o?",
+    "intent": "cpplus_when_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9560689330101013
+    }
+  },
+  {
+    "text": "c\u1ea7n s\u1eed d\u1ee5ng c\u00e1i namespace khi n\u00e0o v th kia?",
+    "intent": "cpplus_when_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9801887273788452
+    }
+  },
+  {
+    "text": "Cho t\u00f4i h\u1ecfi th\u1ebf n\u00e0o l\u00e0 m\u1ed9t con corona",
+    "intent": "corona",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9991218447685242
+    }
+  },
+  {
+    "text": "C\u1ed3 r\u00e2u n\u00e0",
+    "intent": "corona",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.4296901822090149
+    }
+  },
+  {
+    "text": "Nh\u1eefng c\u00e2u n\u00e0o b\u1ea1n bi\u1ebft \u0111\u1ec3 m\u00ecnh h\u1ecfi?\t",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.3408520221710205
+    }
+  },
+  {
+    "text": "NICKNAME C\u1ee6A M L\u00c0 G\u00cc",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8228044509887695
+    }
+  },
+  {
+    "text": "b\u1ea1n c\u00f3 t\u00ean kh\u00f4ng ?",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.40967750549316406
+    }
+  },
+  {
+    "text": "B\u1ea1n c\u00f3 tr\u00f2 ch\u01a1i g\u00ec vui kh\u00f4ng?",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.4734741151332855
+    }
+  },
+  {
+    "text": "trau d\u1ed3i k\u0129 thu\u1eadt l\u00e0m b\u00e0i c++",
+    "intent": "want_to_practice_cpp",
+    "intent_prediction": {
+      "name": "flowchart_asking",
+      "confidence": 0.3104259669780731
+    }
+  },
+  {
+    "text": "\u00ca Bot \u01a1i t mu\u1ed1n dc gi\u1ea3i code",
+    "intent": "want_to_practice_cpp",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.8487643003463745
+    }
+  },
+  {
+    "text": "n\u00e8 bot \u01a1i tao mu\u1ed1n \u0111c gi\u1ea3i Code",
+    "intent": "want_to_practice_cpp",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.48581618070602417
+    }
+  },
+  {
+    "text": "On cuoi ky nmlt",
+    "intent": "want_to_practice_cpp",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.42099055647850037
+    }
+  },
+  {
+    "text": "Cho m\u00ecnh xin m\u1ed9t s\u1ed1 b\u00e0i to\u00e1n li\u00ean quan \u0111\u1ebfn struct",
+    "intent": "cpp_practice",
+    "intent_prediction": {
+      "name": "want_to_practice_cpp",
+      "confidence": 0.9248402714729309
+    }
+  },
+  {
+    "text": "i didn't ask you about covid 19",
+    "intent": "dont_want_to_ask",
+    "intent_prediction": {
+      "name": "corona",
+      "confidence": 0.9774311184883118
+    }
+  },
+  {
+    "text": "tao kh\u00f4ng mu\u1ed1n h\u1ecfi",
+    "intent": "dont_want_to_ask",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.6206050515174866
+    }
+  },
+  {
+    "text": "\u00ea t k c\u00f3 mu\u1ed1n h\u1ecfi g\u00ec m h\u1ebft \u00e1",
+    "intent": "dont_want_to_ask",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.5919946432113647
+    }
+  },
+  {
+    "text": "tao k c\u1ea7n g\u00ec ph\u1ea3i h\u1ecfi m h\u1ebft",
+    "intent": "dont_want_to_ask",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.536462664604187
+    }
+  },
+  {
+    "text": "kh\u00f4ng ask",
+    "intent": "dont_want_to_ask",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5874139070510864
+    }
+  },
+  {
+    "text": "Luy\u1ec7n t\u1eadp v\u1ec1 flowchart",
+    "intent": "want_to_practice_flowchart",
+    "intent_prediction": {
+      "name": "cpp_practice",
+      "confidence": 0.7554531693458557
+    }
+  },
+  {
+    "text": "Bot \u01a1i, g\u1eedi tui \u00f4n m\u1ed9t v\u00e0i c\u00e2u l\u01b0u \u0111\u1ed3 thu\u1eadt to\u00e1n s\u00e1ch k\u1ef9 thu\u1eadt l\u1eadp tr\u00ecnh \u0111i",
+    "intent": "want_to_practice_flowchart",
+    "intent_prediction": {
+      "name": "flowchart_asking",
+      "confidence": 0.8492974042892456
+    }
+  },
+  {
+    "text": "Cho t\u00f4i l\u00e0m m\u1ed9t s\u1ed1 c\u00e2u v\u1ec1 l\u01b0u \u0111\u1ed3 thu\u1eadt to\u00e1n c\u1ee7a th\u1ea7y nguy\u1ec5n t\u1ea5n tr\u1ea7n minh khang t\u00e1c gi\u1ea3 c\u1ee7a s\u00e1ch \u0111i \u1ea1",
+    "intent": "want_to_practice_flowchart",
+    "intent_prediction": {
+      "name": "flowchart_asking",
+      "confidence": 0.8896379470825195
+    }
+  },
+  {
+    "text": "\u0111\u00e1p \u00e1n c\u00e2u 25 s\u00e1ch th\u1ea7y khang l\u00e0 g\u00ec",
+    "intent": "flowchart_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.7508915066719055
+    }
+  },
+  {
+    "text": "cho m\u00ecnh xin c\u00e2u 94 z\u1edbi 21 \u0111i",
+    "intent": "flowchart_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8219245076179504
+    }
+  },
+  {
+    "text": "m\u1ea5y time r\u1ed3i ?",
+    "intent": "time",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.31001946330070496
+    }
+  },
+  {
+    "text": "Cho h\u1ecfi th\u1ee9 m\u1ea5y?",
+    "intent": "date",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.2922080457210541
+    }
+  },
+  {
+    "text": "T\u1ea0I V\u00cc SAO M\u00c0 M L\u1ea0I B\u1eaeT T CH\u1eccN C\u00c2U H\u1eceI???",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.7808546423912048
+    }
+  },
+  {
+    "text": "T\u1ea1i s l\u1ea1i ph\u1ea3i l\u00e0m z\u1eady chi?",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "who_create_you",
+      "confidence": 0.44056472182273865
+    }
+  },
+  {
+    "text": "\u01a1 k\u00eca sao m\u00ecnh l\u1ea1i ph\u1ea3i n\u00f3i th\u00eam th\u00f4ng tin \u0111\u1ea5y?",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.964076042175293
+    }
+  },
+  {
+    "text": "T\u1ea1i sao ta ph\u1ea3i h\u1ecdc m\u00f4n n\u00e0y v\u1eady?",
+    "intent": "dont_want_to_give_cpp_content",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.9996441602706909
+    }
+  },
+  {
+    "text": "TAO MU\u1ed0N XEM M\u1ed8T V\u00c0I VIDEO TUTORIAL V\u1ec0 NMLT",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.8896458745002747
+    }
+  },
+  {
+    "text": "\u00ea \u00ea dume g\u1eedi t link video C++",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.9974777102470398
+    }
+  },
+  {
+    "text": "videos nmlt",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.8552073836326599
+    }
+  },
+  {
+    "text": "VIDEO BAI GIANG VE LY THUYET C++",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.9988279342651367
+    }
+  },
+  {
+    "text": "VIDEO V\u1ec0 COMMENT",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.6907051801681519
+    }
+  },
+  {
+    "text": "link youtube bai Variables",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "want_to_practice_flowchart",
+      "confidence": 0.4162558913230896
+    }
+  },
+  {
+    "text": "MADAM",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.9003188014030457
+    }
+  },
+  {
+    "text": "hi",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9986504316329956
+    }
+  },
+  {
+    "text": "\u00e0 l\u1ed1",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.652184784412384
+    }
+  },
+  {
+    "text": "ohayo gozaimasu",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6475842595100403
+    }
+  },
+  {
+    "text": "L\u00e0m sao \u0111\u1ec3 t\u1ea1o ra b\u1ea1n",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.8433979749679565
+    }
+  },
+  {
+    "text": "Anh Qu\u00e2n",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5339091420173645
+    }
+  },
+  {
+    "text": "Bi\u1ebft Nguy\u1ec5n Anh Qu\u00e2n l\u00e0 ai kh\u00f4ng?",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5748351216316223
+    }
+  },
+  {
+    "text": "Qu\u00e2n \u0111\u1eb9p trai l\u00e0 ai",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.6258543133735657
+    }
+  },
+  {
+    "text": "rep \u0111i bot \u01a1i\t",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.2637062072753906
+    }
+  },
+  {
+    "text": "h\u00fa",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.514037549495697
+    }
+  },
+  {
+    "text": "c\u00fac cu",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.7642754912376404
+    }
+  },
+  {
+    "text": "a h\u00e8m",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.7247547507286072
+    }
+  },
+  {
+    "text": "c\u1ed9c c\u1ed9c",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.3236822783946991
+    }
+  },
+  {
+    "text": "heeyy yo",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.895560622215271
+    }
+  },
+  {
+    "text": "\u1ee7a sao kh\u00f4ng tr\u1ea3 l\u1eddi",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7331547141075134
+    }
+  },
+  {
+    "text": "C\u00d2N M\u00c0Y?",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.715065062046051
+    }
+  },
+  {
+    "text": "bye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8238226771354675
+    }
+  },
+  {
+    "text": "See ya",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9932799339294434
+    }
+  },
+  {
+    "text": "Bai Bai",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "want_to_practice_cpp",
+      "confidence": 0.4568352699279785
+    }
+  },
+  {
+    "text": "B\u1ea1n c\u00fat \u0111i",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5309269428253174
+    }
+  },
+  {
+    "text": "indeed",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8101966977119446
+    }
+  },
+  {
+    "text": "ch\u00ednh x\u00e1c",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.40250256657600403
+    }
+  },
+  {
+    "text": "chu\u1ea9n nha",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.6365490555763245
+    }
+  },
+  {
+    "text": "okei",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.7522482872009277
+    }
+  },
+  {
+    "text": "Ok \u0111\u1ee3i ch\u00fat \u0111\u1ec3 suy ngh\u0129 \u0111\u00e3",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.6626657247543335
+    }
+  },
+  {
+    "text": "OK Bot",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9786686301231384
+    }
+  },
+  {
+    "text": "Ok \u0111\u1ee3i t ngh\u0129 c\u00e1i nha",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.549003005027771
+    }
+  },
+  {
+    "text": "DM BOT NGU M N\u00d3I TH\u1ebe L\u00c0 TOANG R\u1ed2I",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9999158978462219
+    }
+  },
+  {
+    "text": "tr\u1eadt l\u1ea5t",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.49082356691360474
+    }
+  },
+  {
+    "text": "wrong",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8946322798728943
+    }
+  },
+  {
+    "text": "Th\u00f4i h\u1ecfi nhi\u00eau \u0111\u1ee7 bi\u1ebft tr\u00ecnh mi r\u1ed3i",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6071133017539978
+    }
+  },
+  {
+    "text": "Dm bot ngu m n\u00f3i th\u1ebf l\u00e0 toang r\u1ed3i",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.7684739232063293
+    }
+  },
+  {
+    "text": "Nhu vay la ko dung roi",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.56888347864151
+    }
+  },
+  {
+    "text": "Dm bot ngu m noi the la toang roi",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.6125123500823975
+    }
+  },
+  {
+    "text": "Tra loi ngu the k biet",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9841359853744507
+    }
+  },
+  {
+    "text": "Vui",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.31491658091545105
+    }
+  },
+  {
+    "text": "PERFECT",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.528908371925354
+    }
+  },
+  {
+    "text": "TUY\u1ec6T H\u1ea2O",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8350043296813965
+    }
+  },
+  {
+    "text": "TUY\u1ec6T C\u00da M\u00c8O",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.28304073214530945
+    }
+  },
+  {
+    "text": "HAY",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.6018791794776917
+    }
+  },
+  {
+    "text": "GI\u1eceI THI\u1ec6T S\u1ef0",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.9674049615859985
+    }
+  },
+  {
+    "text": "amazing",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.5694931149482727
+    }
+  },
+  {
+    "text": "I am feeling very good",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.9373388290405273
+    }
+  },
+  {
+    "text": "Bi\u1ebft \u0111i\u1ec1u \u0111\u1ea5y",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.8027166724205017
+    }
+  },
+  {
+    "text": "qu\u00e1 vip lu\u00f4n",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.3007316589355469
+    }
+  },
+  {
+    "text": "NH\u00c0 NG\u01af\u01a0I C\u0168NG C\u00d3 H\u1ea2O KH\u00cd \u0110\u1ea4Y",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.894216001033783
+    }
+  },
+  {
+    "text": "Chi\u1ebfn vc v",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.7131926417350769
+    }
+  },
+  {
+    "text": "wow gi\u1ecfi ta",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.4505169987678528
+    }
+  },
+  {
+    "text": "Ok thank you vinamilk",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.6943554282188416
+    }
+  },
+  {
+    "text": "\u0111a t\u1ea1",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8778873085975647
+    }
+  },
+  {
+    "text": "m\u00ecnh fine l\u1eafm nha",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.8466161489486694
+    }
+  },
+  {
+    "text": "kh\u00e1 l\u00e0 ok",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.7007787227630615
+    }
+  },
+  {
+    "text": "Ui tui v\u1eabn c\u00f2n ngon zai l\u1eafm nha c\u1ea3m \u01a1n",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.6155868172645569
+    }
+  },
+  {
+    "text": "\u00d4ng \u0111\u00e2y v\u1eabn \u1ed5n nh\u00e9",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.626959502696991
+    }
+  },
+  {
+    "text": "Thanks, it's just feel so good",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "dont_want_to_ask",
+      "confidence": 0.5193637609481812
+    }
+  },
+  {
+    "text": "I'm really excited today",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.2868354320526123
+    }
+  },
+  {
+    "text": "G\u00c0 V\u00c3I L\u1ed2N",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9591466188430786
+    }
+  },
+  {
+    "text": "S\u00daC SINH NGU H\u1eccC",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.4260932207107544
+    }
+  },
+  {
+    "text": "ngu ng0^k'",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.712788999080658
+    }
+  },
+  {
+    "text": "s\u00fac sinh ngu h\u1ecdc",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9423640966415405
+    }
+  },
+  {
+    "text": "D\u1ed1t",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.526960015296936
+    }
+  },
+  {
+    "text": "bot l\u1ed3n",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.36909380555152893
+    }
+  },
+  {
+    "text": "\u00ca nghe t ch\u1eedi n\u00e8",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6975171566009521
+    }
+  },
+  {
+    "text": "m\u00ecnh ch\u00e1n b\u1ea1n qu\u00e1",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.41912850737571716
+    }
+  },
+  {
+    "text": "M\u00ecnh kh\u00f4ng kh\u1ecfe\t",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.8045840263366699
+    }
+  },
+  {
+    "text": "M\u1ea5t g\u1ed1c nh\u1eadp m\u00f4n l\u1eadp tr\u00ecnh r\u1ed3i pot \u01a1i",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.3682062327861786
+    }
+  },
+  {
+    "text": "terrible",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.7493773698806763
+    }
+  },
+  {
+    "text": "N\u1ea3n qu\u00e1",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.636606752872467
+    }
+  },
+  {
+    "text": "ch\u00e1n qu\u00e1",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5354325771331787
+    }
+  },
+  {
+    "text": "Nay tao bu\u1ed3n qu\u00e1 bot \u01a1i",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.7581864595413208
+    }
+  },
+  {
+    "text": "Huhuhuhuhu",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6778834462165833
+    }
+  },
+  {
+    "text": "huhu",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9518997073173523
+    }
+  },
+  {
+    "text": "\u00c0 TH\u00d4I",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.47000423073768616
+    }
+  },
+  {
+    "text": "C\u00fat",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.7919345498085022
+    }
+  },
+  {
+    "text": "Ngh\u0129",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.911327600479126
+    }
+  },
+  {
+    "text": "Baii",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.9036169648170471
+    }
+  },
+  {
+    "text": "C\u00e1m \u01a1n ko c\u1ea7n",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "thanks",
+      "confidence": 0.9762067198753357
+    }
+  },
+  {
+    "text": "Thua",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.3727795481681824
+    }
+  },
+  {
+    "text": "C\u00f3 ch\u1ee9",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "corona",
+      "confidence": 0.5962586402893066
+    }
+  },
+  {
+    "text": "T\u1ea5t nhi\u00ean r\u1ed3i",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.606697678565979
+    }
+  },
+  {
+    "text": "d\u0129 nhi\u00ean r",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7239229083061218
+    }
+  },
+  {
+    "text": "Tr\u1ea3 l\u1eddi gi\u00fap tao c\u00e2u n\u00e0y",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7031112313270569
+    }
+  },
+  {
+    "text": "Gi\u00fap tao m\u1ed9t ch\u00fat \u0111\u01b0\u1ee3c kh\u00f4ng?",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5434376001358032
+    }
+  },
+  {
+    "text": "Cho m\u00ecnh h\u1ecfi th\u00eam n\u1eefa \u0111\u01b0\u1ee3c kh\u00f4ng",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.7083868384361267
+    }
+  },
+  {
+    "text": "ok lu\u00f4n \u0111\u1ec3 t t\u00ecm c\u00e2u h\u1ecfi n\u00e0y",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "dont_want_to_ask",
+      "confidence": 0.3827601969242096
+    }
+  },
+  {
+    "text": "H\u1ecfi m\u1ed9t c\u00e2u kh\u00e1c",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.9991002678871155
+    }
+  },
+  {
+    "text": "H\u1ecfi c\u00e1c ki\u1ebfn th\u1ee9c v\u1ec1 C++",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.33319908380508423
+    }
+  },
+  {
+    "text": "Uit",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.33817580342292786
+    }
+  },
+  {
+    "text": "Video h\u01b0\u1edbng d\u1eabn python",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.9950018525123596
+    }
+  },
+  {
+    "text": "test",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9855549335479736
+    }
+  },
+  {
+    "text": "Cho m\u00ecnh th\u00eam v\u00e0i c\u00e2u ch\u00e2m ng\u00f4n \u0111i",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "dont_want_to_ask",
+      "confidence": 0.40969163179397583
+    }
+  },
+  {
+    "text": "L\u00e0m sao \u0111\u1ec3 l\u1ea5y ra d\u00e3y t\u0103ng d\u1ea7n trong m\u1ea3ng",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.7262718677520752
+    }
+  },
+  {
+    "text": "uit",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9944258332252502
+    }
+  },
+  {
+    "text": "Kh\u00f4ng \u00fd t\u00f4i l\u00e0 \"<string>, <string.h>, <cstring> N\u00ean x\u00e0i c\u00e1i n\u00e0o\"",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.6111385226249695
+    }
+  },
+  {
+    "text": "V\u00ec sao tr\u1eddi m\u01b0a!",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.5215807557106018
+    }
+  },
+  {
+    "text": "Cho m\u00ecnh xin t\u1ea1i li\u1ec7u c++",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.586052656173706
+    }
+  },
+  {
+    "text": "NH\u1eadp     M\u00d4N lajapp  tr\u00ecnh laf g\u00ec",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "want_to_practice_cpp",
+      "confidence": 0.44550472497940063
+    }
+  },
+  {
+    "text": "ki?u d? li?u l\u00e0 g\u00ec",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9806039929389954
+    }
+  },
+  {
+    "text": "thay Do Tien",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8077757358551025
+    }
+  },
+  {
+    "text": "Cho m\u00ecnh xin t\u00e0i li\u1ec7u c++?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "want_to_practice_cpp",
+      "confidence": 0.9833828806877136
+    }
+  },
+  {
+    "text": "Donald Trump",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3275221288204193
+    }
+  },
+  {
+    "text": "asfasfsdbfdbheqwer",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "want_to_practice_cpp",
+      "confidence": 0.3542897701263428
+    }
+  },
+  {
+    "text": "Th\u1ef1c l\u00e0 g\u00ec?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9903624057769775
+    }
+  },
+  {
+    "text": "k\u1ec3 c\u00e2u chuy\u1ec7n vui \u0111i",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpp_practice",
+      "confidence": 0.36966001987457275
+    }
+  },
+  {
+    "text": "l\u00e0m sao \u0111\u1ec3 th\u00e0nh l\u1eadp tr\u00ecnh vi\u00ean gi\u1ecfi",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.33291563391685486
+    }
+  },
+  {
+    "text": "bi\u1ebft h\u00e1t auto tune k",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.8838312029838562
+    }
+  },
+  {
+    "text": "c\u00e1ch qua m\u00f4n",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.32979562878608704
+    }
+  },
+  {
+    "text": "b\u1ea1n \u0103n c\u01a1m ch\u01b0a?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "thanks",
+      "confidence": 0.7638485431671143
+    }
+  },
+  {
+    "text": "\u0111\u00e1nh li\u00ean qu\u00e2n \u0111\u00ea",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5987066626548767
+    }
+  },
+  {
+    "text": "m\u00e1 m\u00e0y t\u00ean l\u00e0 ng\u1ecdc \u00f4ng gi\u00e0 m\u00e0y tu\u1ea5n anh",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9878331422805786
+    }
+  },
+  {
+    "text": "Postflix l\u00e0 g\u00ec",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9999991655349731
+    }
+  },
+  {
+    "text": "1 + 1 = 2 \u0111\u00fang kh\u00f4ng?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "flowchart_asking",
+      "confidence": 0.984518826007843
+    }
+  },
+  {
+    "text": "Xuan DIeu",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.6392179131507874
+    }
+  },
+  {
+    "text": "\u0110\u1ebfm c\u00e1c s\u1ed1 nguy\u00ean t\u1ed1 nh\u1ecf h\u01a1n 10000",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.8708536624908447
+    }
+  },
+  {
+    "text": "just give to me a example about to\u00e1n t\u1eed \u0111\u1ecbnh ph\u1ea1m vi",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.6354894638061523
+    }
+  },
+  {
+    "text": "NH\u1eeeNG KI\u1ebeN TH\u1ee8C C\u01a0 B\u1ea2N V\u1ec0 H\u00c0M",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.4280133843421936
+    }
+  },
+  {
+    "text": "BI\u1ebeT G\u00cc V\u1ec0 C\u1ea4U TR\u00daC K B\u1ea0N EI",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.7009663581848145
+    }
+  },
+  {
+    "text": "B\u00c0N LU\u1eacN S\u00d4I N\u1ed4I M\u1ed8T CH\u00daT V\u1ec0 KI\u1ec2U LI\u1ec6T K\u00ca N\u00c0O CHATBOT?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.33060574531555176
+    }
+  },
+  {
+    "text": "BOOLEAN",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.9873455762863159
+    }
+  },
+  {
+    "text": "review cho t 1 ch\u00fat v\u1ec1 m\u00f4n nh\u1eadp m\u00f4n l\u1eadp tr\u00ecnh \u0111i bot",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpp_practice",
+      "confidence": 0.5242040157318115
+    }
+  },
+  {
+    "text": "Nmlt l\u00e0 g\u00ec",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9807292222976685
+    }
+  },
+  {
+    "text": "switch case",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "want_to_practice_flowchart",
+      "confidence": 0.42539268732070923
+    }
+  },
+  {
+    "text": "c\u00e2u l\u1ec7nh \u0111i\u1ec1u ki\u1ec7n trong c++ l\u00e0 gi?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.4731382131576538
+    }
+  },
+  {
+    "text": "Bi\u1ebft g\u00ec v\u1ec1 C\u1ea5u tr\u00fac k b\u1ea1n ei",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpp_practice",
+      "confidence": 0.705874502658844
+    }
+  },
+  {
+    "text": "kieu so nguyen la sao",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.8917141556739807
+    }
+  },
+  {
+    "text": "Nhung kien thuc co ban ve HAM",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.6856196522712708
+    }
+  },
+  {
+    "text": "Ban noi ve CLASS di",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "corona",
+      "confidence": 0.38599058985710144
+    }
+  },
+  {
+    "text": "noi gi ve Con tro di?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.6151713728904724
+    }
+  },
+  {
+    "text": "kh\u00f4ng gian t\u00ean?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9920492172241211
+    }
+  },
+  {
+    "text": "Definition of flow of control in programming?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.4910237193107605
+    }
+  },
+  {
+    "text": "Lenh nhay la gi?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.7998542189598083
+    }
+  },
+  {
+    "text": "E may oi ham noi tuyen la gi vay",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.8366461396217346
+    }
+  },
+  {
+    "text": "teach me H\u00e0m n\u1ed9i tuy\u1ebfn if u can",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.7555083632469177
+    }
+  },
+  {
+    "text": "h\u00e0m do while th\u1ef1c hi\u1ec7n nh\u01b0 th\u1ebf n\u00e0o",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.999995768070221
+    }
+  },
+  {
+    "text": "khong gian ten?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9932841658592224
+    }
+  },
+  {
+    "text": "C\u00c1I KI\u1ec2U D\u1eee LI\u1ec6U LU\u1eacN L\u00dd TRONG C++ \u0110C TRI\u1ec2N KHAI N\u00c0M THAO TH\u1ebe BOT?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.891147255897522
+    }
+  },
+  {
+    "text": "T\u1ea1o m\u1ea3ng ki\u1ec3u qu\u00e1i g\u00ec z\u1ecb ?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.5509716868400574
+    }
+  },
+  {
+    "text": "\u00ca ch\u1ec9 tao c\u00e1ch tri\u1ec3n khai ki\u1ec3u lu\u1eadn l\u00fd cho n\u00f3 ra j xem n\u00e0o",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8194600343704224
+    }
+  },
+  {
+    "text": "E chi tao cach trien khai kieu luan ly cho no ra j xem nao",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9990140199661255
+    }
+  },
+  {
+    "text": "\u1ee6a x\u00e0i COMMENT chi?",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9903836250305176
+    }
+  },
+  {
+    "text": "ta khai b\u00e1o variable \u1edf \u0111\u00e2y \u0111\u00e2y?",
+    "intent": "cpplus_where_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.45275360345840454
+    }
+  },
+  {
+    "text": "m\u00ecnh ph\u1ea3i vi\u1ebft comment \u1edf \u0111\u00e2u \u0111\u00e2y?",
+    "intent": "cpplus_where_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6147270202636719
+    }
+  },
+  {
+    "text": "t c\u1ea7n \u0111\u1ec3 comment \u1edf \u0111\u00e2u?",
+    "intent": "cpplus_where_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9620526432991028
+    }
+  },
+  {
+    "text": "Th\u1ebf n\u00e0o l\u00e0 1 b\u00e9 covid 19",
+    "intent": "corona",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8238924741744995
+    }
+  },
+  {
+    "text": "t\u00ecnh h\u00ecnh covid t\u1ea1i vi\u1ec7t nam",
+    "intent": "corona",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.4972289204597473
+    }
+  },
+  {
+    "text": "The nao la 1 be covid 19",
+    "intent": "corona",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.637056827545166
+    }
+  },
+  {
+    "text": "Kimi no na wa ?",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9511111378669739
+    }
+  },
+  {
+    "text": "n\u00f3i tao nghe t\u00ean m\u00e0y",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.47825294733047485
+    }
+  },
+  {
+    "text": "B\u1ea1n \u0111\u01b0\u1ee3c l\u1eadp tr\u00ecnh s\u1eb3n h\u1ebft ph\u1ea3i kh\u00f4ng?",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9724388122558594
+    }
+  },
+  {
+    "text": "who are u",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.7030359506607056
+    }
+  },
+  {
+    "text": "B\u1ea1n \u0111\u01b0\u1ee3c t\u1ea1o ra d\u1ef1a tr\u00ean ki\u1ebfn th\u1ee9c g\u00ec ?",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.33134007453918457
+    }
+  },
+  {
+    "text": "B\u1ea1n c\u00f3 ph\u1ea3i l\u00e0 ng\u01b0\u1eddi kh\u00f4ng ?",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5462122559547424
+    }
+  },
+  {
+    "text": "noi bo m nghe ten cua m xem nao",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.28181058168411255
+    }
+  },
+  {
+    "text": "TRAU D\u1ed2I K\u0128 THU\u1eacT L\u00c0M B\u00c0I C++",
+    "intent": "want_to_practice_cpp",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.755344569683075
+    }
+  },
+  {
+    "text": "m\u1ed9t s\u1ed1 b\u00e0i \u00f4n t\u1eadp v\u1ec1 c++",
+    "intent": "cpp_practice",
+    "intent_prediction": {
+      "name": "want_to_practice_cpp",
+      "confidence": 0.8036086559295654
+    }
+  },
+  {
+    "text": "anh \u01a1i em \u0111\u00e2u c\u00f3 h\u1ecfi c\u00e1i g\u00ec \u0111\u00e2u m\u00e0 sao anh c\u1ee9 \u00e9p em ph\u1ea3i h\u1ecfi anh th\u1ebf",
+    "intent": "dont_want_to_ask",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.5069441199302673
+    }
+  },
+  {
+    "text": "Nothing",
+    "intent": "dont_want_to_ask",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.989722490310669
+    }
+  },
+  {
+    "text": "G\u1eecI CHO T\u00d4I M\u1ed8T S\u1ed0 C\u00c2U H\u1eceI LI\u00caN QUAN \u0110\u1ebeN PH\u1ea6N B\u00c0I T\u1eacP L\u01afU \u0110\u1ed2 THU\u1eacT TO\u00c1N TRONG S\u00c1CH K\u0128 THU\u1eacT L\u1eacP TR\u00ccNH C\u1ee6A TH\u1ea6Y KHANG \u0110I",
+    "intent": "want_to_practice_flowchart",
+    "intent_prediction": {
+      "name": "flowchart_asking",
+      "confidence": 0.4696824550628662
+    }
+  },
+  {
+    "text": "Flowchart practice",
+    "intent": "want_to_practice_flowchart",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.7210265398025513
+    }
+  },
+  {
+    "text": "G\u1eedi b\u1ed1 m b\u00e0i s\u01a1 \u0111\u1ed3 thu\u1eadt to\u00e1n coi bot",
+    "intent": "want_to_practice_flowchart",
+    "intent_prediction": {
+      "name": "want_to_practice_cpp",
+      "confidence": 0.6667165756225586
+    }
+  },
+  {
+    "text": "Flowchart Ve",
+    "intent": "want_to_practice_flowchart",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.6897948980331421
+    }
+  },
+  {
+    "text": "Thuc hanh ve voi luu do",
+    "intent": "want_to_practice_flowchart",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.37157830595970154
+    }
+  },
+  {
+    "text": "cay luu do thuat toan",
+    "intent": "want_to_practice_flowchart",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9973874688148499
+    }
+  },
+  {
+    "text": "c\u00e2u 1",
+    "intent": "flowchart_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9799684286117554
+    }
+  },
+  {
+    "text": "Alo, cau so 19 luu do thuat toan ban eii",
+    "intent": "flowchart_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.31660085916519165
+    }
+  },
+  {
+    "text": "luu do thuat toan thay Khang bai 3",
+    "intent": "flowchart_asking",
+    "intent_prediction": {
+      "name": "want_to_practice_flowchart",
+      "confidence": 0.5759435296058655
+    }
+  },
+  {
+    "text": "\u00ca bot what time is it now ?",
+    "intent": "time",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.4239911437034607
+    }
+  },
+  {
+    "text": "t\u1ea1i s t l\u1ea1i c\u1ea7n ph\u1ea3i l\u00e0m nh\u01b0 v\u1eady chi th\u1ebf @@",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.5580370426177979
+    }
+  },
+  {
+    "text": "\u1ee7a m\u00e0 h\u1ecfi z\u1ecb chi bot ngu ?",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9934144616127014
+    }
+  },
+  {
+    "text": "T\u1ea1i sao m l\u1ea1i c\u1ea7n c\u00e1i \u0111\u1ea5y",
+    "intent": "dont_want_to_give_cpp_content",
+    "intent_prediction": {
+      "name": "dont_want_to_give_flowchart_quest_num",
+      "confidence": 0.43862903118133545
+    }
+  },
+  {
+    "text": "T\u1ea1i sao m c\u1ea7n ph\u1ea3i h\u1ecfi t nh\u01b0 th\u1ebf? B\u1ed9 kh\u00f4ng th\u1ec3 \u0111\u01b0a ra 1 b\u00e0i t\u1ed5ng h\u1ee3p \u00e0 ?",
+    "intent": "dont_want_to_give_cpp_content",
+    "intent_prediction": {
+      "name": "dont_want_to_give_flowchart_quest_num",
+      "confidence": 0.5895617604255676
+    }
+  },
+  {
+    "text": "C++ PROGRAMMING TUTORIALS",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.9003705978393555
+    }
+  },
+  {
+    "text": "Tao mu\u1ed1n xem m\u1ed9t v\u00e0i video tutorial v\u1ec1 NMLT",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "want_to_practice_cpp",
+      "confidence": 0.5635378360748291
+    }
+  },
+  {
+    "text": "T\u00e0i li\u1ec7u nh\u1eadp m\u00f4n l\u1eadp tr\u00ecnh",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.7166349291801453
+    }
+  },
+  {
+    "text": "C++ LINK VIDEO VECTOR",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.729751706123352
+    }
+  },
+  {
+    "text": "\u00ca send t b\u00e0i v\u1ec1 library \u0111i",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.49173855781555176
+    }
+  },
+  {
+    "text": "video l\u00fd thuy\u1ebft v\u1ec1 m\u1ea3ng trong C++",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.7001075744628906
+    }
+  },
+  {
+    "text": "Bot \u01a1i b\u1ea1n g\u1eedi 1 video tutorial v\u1ec1 class c\u1ee7a tr\u01b0\u1eddng UIT c\u1ee7a b\u1ea1n \u0111i",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.7591552734375
+    }
+  },
+  {
+    "text": "1 lo\u1ea1t series b\u00e0i gi\u1ea3ng v\u1ec1 l\u00fd thuy\u1ebft H\u00e0m trong C++",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.9997115135192871
+    }
+  },
+  {
+    "text": "Cac video gioi thieu ve nmlt di",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.5459380745887756
+    }
+  },
+  {
+    "text": ".",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.4503757953643799
+    }
+  },
+  {
+    "text": "YO WTF TH\u1eb0NG EM",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.5898224115371704
+    }
+  },
+  {
+    "text": "\u00ca M\u00c0Y",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.9875265955924988
+    }
+  },
+  {
+    "text": "\u00ca M\u00c0I",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.9660440683364868
+    }
+  },
+  {
+    "text": "\u00ca B\u1ea0N \u00caII",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9052876234054565
+    }
+  },
+  {
+    "text": "KONNICHIWA",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5174368023872375
+    }
+  },
+  {
+    "text": "hello",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5442023873329163
+    }
+  },
+  {
+    "text": "h\u1ebf l\u00f4",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.21265390515327454
+    }
+  },
+  {
+    "text": "alo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.7746175527572632
+    }
+  },
+  {
+    "text": "yo \u01b0tf",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.3123989403247833
+    }
+  },
+  {
+    "text": "n\u1ec9 h\u1ea3o",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.5412640571594238
+    }
+  },
+  {
+    "text": "alo em",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.4547242820262909
+    }
+  },
+  {
+    "text": "R\u1ea5t h\u00e2n h\u1ea1nh \u0111\u01b0\u1ee3c ch\u00e0o Bot",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.32090774178504944
+    }
+  },
+  {
+    "text": "Qu\u00e2n l\u00e0 ai",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9951153993606567
+    }
+  },
+  {
+    "text": "Th\u1eafng l\u00e0 ai",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.995364785194397
+    }
+  },
+  {
+    "text": "\u00eaii",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.9947152733802795
+    }
+  },
+  {
+    "text": "\u00ea duma",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.6208627223968506
+    }
+  },
+  {
+    "text": "l\u00f4 l\u00f4",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.552847683429718
+    }
+  },
+  {
+    "text": "ring ring",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3417389690876007
+    }
+  },
+  {
+    "text": "knock knock",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.28700903058052063
+    }
+  },
+  {
+    "text": "\u00ca bot ngu",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.5598008632659912
+    }
+  },
+  {
+    "text": "Sao seen r\u1ed3i",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9936690330505371
+    }
+  },
+  {
+    "text": "bot c\u00f9i th\u1ebf",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.686336100101471
+    }
+  },
+  {
+    "text": "EXCELLENT, AND U?",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.9974221587181091
+    }
+  },
+  {
+    "text": "B\u1ea0N KHO\u1eba KH\u00d4NG",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.9122433662414551
+    }
+  },
+  {
+    "text": "c\u00fac",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.3677207827568054
+    }
+  },
+  {
+    "text": "\u0111\u1ec3 khi kh\u00e1c h\u1ecfi ti\u1ebfp",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.9966381788253784
+    }
+  },
+  {
+    "text": "tao b\u1eadn r\u1ed3i, bye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6956526041030884
+    }
+  },
+  {
+    "text": "pp",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6088206171989441
+    }
+  },
+  {
+    "text": "\u0111i \u0111\u00e2y",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.39130350947380066
+    }
+  },
+  {
+    "text": "Ok, t\u1ed1c \u0111\u1ed9 tr\u1ea3 l\u1eddi n\u00e0y l\u00e0 bot",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6082537770271301
+    }
+  },
+  {
+    "text": "\u0110\u01b0\u1ee3c r\u1ed3i m\u00ecnh c\u1ea3m \u01a1n",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.43231749534606934
+    }
+  },
+  {
+    "text": "of course",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.934410810470581
+    }
+  },
+  {
+    "text": "oke la",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.7482424378395081
+    }
+  },
+  {
+    "text": "DCM CHU\u1ea8N TH\u1ebe",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7448956370353699
+    }
+  },
+  {
+    "text": "ok \u0111\u1ec3 suy ngh\u0129 xem",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.9602438807487488
+    }
+  },
+  {
+    "text": "KH\u00d4NG \u0110\u00daNG",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.2788962721824646
+    }
+  },
+  {
+    "text": "S\u1ee6A NGU Z\u1eeaA Z\u1eeaA THOI",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.5852663516998291
+    }
+  },
+  {
+    "text": "hong ph\u1ea3i z\u1ecb \u00f9i",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6529271006584167
+    }
+  },
+  {
+    "text": "HONG DUNG UI BOT UIII",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.3781399428844452
+    }
+  },
+  {
+    "text": "\u0110\u01af\u1ee2C",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5780595541000366
+    }
+  },
+  {
+    "text": "\u0110\u01af\u1ee2C B\u1ea0N \u01a0I",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "thanks",
+      "confidence": 0.8602498769760132
+    }
+  },
+  {
+    "text": "Ta c\u00f3 l\u1eddi khen ng\u1ee3i d\u00e0nh cho nh\u00e0 ng\u01b0\u01a1i \u0111\u1ea5y",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "dont_want_to_ask",
+      "confidence": 0.5327785611152649
+    }
+  },
+  {
+    "text": "\u1ed2, c\u0169ng kh\u00e1 ph\u1ebft \u0111\u00f3 ch\u1ee9",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3935258388519287
+    }
+  },
+  {
+    "text": "Qu\u00e1 chi\u1ebfn lu\u00f4n chatbot \u01a1i",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5377575755119324
+    }
+  },
+  {
+    "text": "c\u00f3 gi\u00fap \u0111\u01b0\u1ee3c m\u1ed9t ch\u00fat",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.3538096845149994
+    }
+  },
+  {
+    "text": "Th\u00f4i. M\u00ecnh gi\u1ee1n \u00e1",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.2063228040933609
+    }
+  },
+  {
+    "text": "Wow c\u00f3 \u00edch gh\u00ea ta",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.8268210887908936
+    }
+  },
+  {
+    "text": "THANK NHI\u1ec0U",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.6396430134773254
+    }
+  },
+  {
+    "text": "thank nhi\u1ec1u",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9411186575889587
+    }
+  },
+  {
+    "text": "T \u0110ANG C\u1ef0C K\u00cc \u1ed4N",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.589242160320282
+    }
+  },
+  {
+    "text": "I'm feeling great",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.9149173498153687
+    }
+  },
+  {
+    "text": "I'm a bit okay",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.49422869086265564
+    }
+  },
+  {
+    "text": "Extremely good",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.6460869908332825
+    }
+  },
+  {
+    "text": "TH LON",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5079776644706726
+    }
+  },
+  {
+    "text": "TH LON`",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5079776644706726
+    }
+  },
+  {
+    "text": "\u00d3C V\u1eacT",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.5678861737251282
+    }
+  },
+  {
+    "text": "NGU V\u00c3I C\u1eb6C",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.6301456093788147
+    }
+  },
+  {
+    "text": "BOT NGAO'",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.49565958976745605
+    }
+  },
+  {
+    "text": "L\u00c1O C\u00c1 CH\u00d3",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3510339856147766
+    }
+  },
+  {
+    "text": "th\u1eb1ng ngu bot n\u00e0y",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9021324515342712
+    }
+  },
+  {
+    "text": "Th l \u0111\u1ea7u c\u1eaft moi",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.6510910987854004
+    }
+  },
+  {
+    "text": "b\u1ed1 m\u00e0y \u0111ang ch\u1eedi m\u00e0y \u0111\u1ea5y",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5572296380996704
+    }
+  },
+  {
+    "text": "anh m\u00e0y \u0111ang ch\u1eedi m\u00e0y \u0111\u1ea5y",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.755244255065918
+    }
+  },
+  {
+    "text": "Kh\u00f4ng th\u1ec3 t\u1ec7 h\u01a1n \u0111\u01b0\u1ee3c n\u1eefa",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5687615275382996
+    }
+  },
+  {
+    "text": "nay tao ch\u00e1n n\u1ea3n qu\u00e1",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.40001702308654785
+    }
+  },
+  {
+    "text": "Th\u1eadt l\u00e0 m\u1ed9t ng\u00e0y t\u1ed3i t\u1ec7",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7067591547966003
+    }
+  },
+  {
+    "text": "sao tui ngu qu\u00e1 v\u1eady",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5863728523254395
+    }
+  },
+  {
+    "text": "T\u1eea T\u1eea R\u1ed2I H\u1eceI SAU",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6995043158531189
+    }
+  },
+  {
+    "text": "huii dc \u00f9i",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.3173048794269562
+    }
+  },
+  {
+    "text": "Tao ch\u01b0a mu\u1ed1n h\u1ecfi g\u00ec h\u1ebft \u00e1",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "dont_want_to_ask",
+      "confidence": 0.3404562771320343
+    }
+  },
+  {
+    "text": "T\u1eeb t\u1eeb nha \u0111\u1ee3i c\u00f3 g\u00ec t suy ngh\u0129 c\u00e2u h\u1ecfi r quay l\u1ea1i sau",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.5316721200942993
+    }
+  },
+  {
+    "text": "ko",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.7773097157478333
+    }
+  },
+  {
+    "text": "D\u1eb9p",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.8759027123451233
+    }
+  },
+  {
+    "text": "D\u1eb9p m\u1eb9",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9595218300819397
+    }
+  },
+  {
+    "text": "C\u00fat x\u00e9o",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.6540040373802185
+    }
+  },
+  {
+    "text": "continue_asking",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.8355847001075745
+    }
+  },
+  {
+    "text": "H\u1ecfi c\u00e2u kh\u00e1c",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.9656171798706055
+    }
+  },
+  {
+    "text": "h\u1ecfi c\u00e2u kh\u00e1c",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.9461334943771362
+    }
+  },
+  {
+    "text": "b\u1ea1n c\u00f3 th\u1ec3 tr\u1ea3 l\u1eddi g\u00ec",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.3770688772201538
+    }
+  },
+  {
+    "text": "co",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6201798319816589
+    }
+  },
+  {
+    "text": "z\u00f4 n\u00e8",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.6254593133926392
+    }
+  },
+  {
+    "text": "CHO TAO H\u1eceI M\u1ed8T CH\u00daT V\u1ec0 C++",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.7531498670578003
+    }
+  },
+  {
+    "text": "GI\u00daP M\u00ccNH M\u1ed8T S\u1ed0 C\u00c2U H\u1eceI C++ \u0110\u01af\u1ee2C KH\u00d4NG",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.5101650953292847
+    }
+  },
+  {
+    "text": "H\u1eceI L\u1ea0I",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.2887418568134308
+    }
+  },
+  {
+    "text": "cho tao h\u1ecfi m\u1ed9t ch\u00fat v\u1ec1 C++",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.6809999942779541
+    }
+  },
+  {
+    "text": "b\u1ea1n c\u00f3 th\u1ec3 h\u1ed7 tr\u1ee3 d\u00f9ng VScode \u0111\u01b0\u1ee3c kkh\u00f4ng",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.7325032353401184
+    }
+  },
+  {
+    "text": "m\u00ecnh mu\u1ed1n bi\u1ebft v\u1ec1 python",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpp_practice",
+      "confidence": 0.9476360082626343
+    }
+  },
+  {
+    "text": "Sort array",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9980959892272949
+    }
+  },
+  {
+    "text": "ngo\u00e0i c++ ra b\u1ea1n c\u00f2n bi\u1ebft v\u1ec1 ng\u00f4n ng\u1eef l\u1eadp tr\u00ecnh n\u00e0o n\u1eefa kh\u00f4ng ?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9993250370025635
+    }
+  },
+  {
+    "text": "l\u00e0m sao \u0111\u1ec3 qua m\u00f4n",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.6751875281333923
+    }
+  },
+  {
+    "text": ".",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.4503757953643799
+    }
+  },
+  {
+    "text": "H\u1ecdc g\u00ec \u0111\u1ec3 \u0111\u1ea1t \u0111i\u1ec3m cao nh\u1eadp m\u00f4n l\u1eadp tr\u00ecnh?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.8609290719032288
+    }
+  },
+  {
+    "text": "n\u00f3 ch\u1ea1y nh\u01b0 th\u1ebf no\u00e0",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.9731899499893188
+    }
+  },
+  {
+    "text": "Ch\u1ee7 c\u1ee7a b\u1ea1n c\u00f3 bi\u1ebft g\u00ec v\u1ec1 c\u00e2u chuy\u1ec7n gi\u1eefa hai ch\u00fang ta kh\u00f4ng?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "dont_want_to_give_flowchart_quest_num",
+      "confidence": 0.5581001043319702
+    }
+  },
+  {
+    "text": "con c\u1eb7c l\u00e0 g\u00ec",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.9895157217979431
+    }
+  },
+  {
+    "text": "Ng\u00f4n ng\u1eef Ti\u1ebfng Anh \u0111\u01b0\u1ee3c kh\u00f4ng",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9999169707298279
+    }
+  },
+  {
+    "text": "cout << \"hello\" ;",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8773005604743958
+    }
+  },
+  {
+    "text": "Netflix l\u00e0 g\u00ec",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9999668002128601
+    }
+  },
+  {
+    "text": "b\u00ed m\u1eadt c\u1ee7a v\u0169 tr\u1ee5 l\u00e0 g\u00ec",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.5664189457893372
+    }
+  },
+  {
+    "text": "Biet toi la ai khong ?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "want_to_practice_flowchart",
+      "confidence": 0.7663125395774841
+    }
+  },
+  {
+    "text": "\u0111\u1ec1 b\u00e0i",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpp_practice",
+      "confidence": 0.441267192363739
+    }
+  },
+  {
+    "text": "cho tui h\u1ecfi m\u1ea5y gi\u1edd r\u1ed3i v\u1eady?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "time",
+      "confidence": 0.7181364893913269
+    }
+  },
+  {
+    "text": "16 typh on the mic",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9870627522468567
+    }
+  },
+  {
+    "text": "ng\u00e0y mai t c\u00f3 ti\u1ebft l\u00fac m\u1ea5y gi\u1edd nh\u1ec9",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "time",
+      "confidence": 0.5209802389144897
+    }
+  },
+  {
+    "text": "bi\u1ebft ki\u1ebfm ti\u1ec1n k",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9919683337211609
+    }
+  },
+  {
+    "text": "\u0111\u00e1nh nhau ko",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.4003821313381195
+    }
+  },
+  {
+    "text": "c\u00e1ch h\u1ebft n\u1ee3 m\u00f4n",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9921745657920837
+    }
+  },
+  {
+    "text": "\u00f2 \u00f3 o o",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5884218215942383
+    }
+  },
+  {
+    "text": "babe",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.312466025352478
+    }
+  },
+  {
+    "text": "nh\u01b0 b\u1ea1n \u0111\u00e3 th\u1ea5y t\u00f4i v\u1edbi b\u1ea1n \u0111\u1ec1u l\u00e0 d\u00e2n ch\u01a1i",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.3609637916088104
+    }
+  },
+  {
+    "text": "anh y\u00eau em",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.2494659274816513
+    }
+  },
+  {
+    "text": "ai la con di cua anh nao",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8160741329193115
+    }
+  },
+  {
+    "text": "ai l\u00e0 con \u0111\u0129 c\u1ee7a anh n\u00e0o",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9999046921730042
+    }
+  },
+  {
+    "text": "M\u1eadt kh\u1ea9u facebook c\u1ee7a ch\u1ee7 m\u1ea7y l\u00e0 g\u00ec ?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9766520857810974
+    }
+  },
+  {
+    "text": "tao c\u00f3 v\u1ea5n \u0111\u1ec1 c\u1ea7n h\u1ecfi. kh\u00f4ng bi\u1ebft con tr\u1ecf l\u00e0 g\u00ec ?\t",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "dont_want_to_ask",
+      "confidence": 0.5373605489730835
+    }
+  },
+  {
+    "text": "NHU NAO LA BREAK VAY BAN HIEN?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.7500876784324646
+    }
+  },
+  {
+    "text": "H\u00c0M L\u00c0 G\u00cc?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9749644994735718
+    }
+  },
+  {
+    "text": "\u0110\u1ec6 QUY \u0110\u01af\u1ee2C \u0110\u1ecaNH NGH\u0128A NTN?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.1894015520811081
+    }
+  },
+  {
+    "text": "H\u1eb0NG S\u1ed0 TRONG C++?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.7973818182945251
+    }
+  },
+  {
+    "text": "l\u01b0u \u0111\u1ed3 thu\u1eadt to\u00e1n  ?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "want_to_practice_flowchart",
+      "confidence": 0.9955904483795166
+    }
+  },
+  {
+    "text": "Ng\u01b0\u1eddi vi\u1ebft ra c++?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_create_you",
+      "confidence": 0.9202572703361511
+    }
+  },
+  {
+    "text": "comment",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9668982625007629
+    }
+  },
+  {
+    "text": "if",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9813032746315002
+    }
+  },
+  {
+    "text": "bien ?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.8214635848999023
+    }
+  },
+  {
+    "text": "cho minh hoi ve luu do thuat toan voi a !",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "want_to_practice_flowchart",
+      "confidence": 0.7098547220230103
+    }
+  },
+  {
+    "text": "Bi\u1ebfn t\u0129nh",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.32766199111938477
+    }
+  },
+  {
+    "text": "e th lz bot noi cho bo m biet ve Reference Variable \u0111i",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.5444454550743103
+    }
+  },
+  {
+    "text": "cai lon ma chi lai tao khai niem ve return type coi th ngu",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.9918335676193237
+    }
+  },
+  {
+    "text": "Th\u1eed th\u00e1ch cho m \u0111\u00e2y, show cho tao ki\u1ebfn th\u1ee9c v\u1ec1 ARGUMENT c\u1ee7a m xem",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.40246230363845825
+    }
+  },
+  {
+    "text": "H\u00c0M MAIN ?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.368618905544281
+    }
+  },
+  {
+    "text": "KI\u1ec2U LU\u1eacN L\u00dd D\u00d9NG NTN V ???",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.9524473547935486
+    }
+  },
+  {
+    "text": "\u00ca CH\u1ec8 TAO C\u00c1CH TRI\u1ec2N KHAI KI\u1ec2U LU\u1eacN L\u00dd CHO N\u00d3 RA J XEM N\u00c0O",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.9904713034629822
+    }
+  },
+  {
+    "text": "t\u00f4i ph\u1ea3i l\u00e0m g\u00ec v\u1edbi c++ \u0111\u00e2y",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.2524493634700775
+    }
+  },
+  {
+    "text": "Ki\u1ec3u lu\u1eadn l\u00fd d\u00f9ng ntn v ???",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.9329343438148499
+    }
+  },
+  {
+    "text": "d\u00f9ng struct trong cpp ki\u1ec3u g\u00ec th\u1ebf?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9415321946144104
+    }
+  },
+  {
+    "text": "d\u00f9ng c\u00e1ch th\u1ee9c g\u00ec \u0111\u1ec3 x\u00e0i dc struct th\u1ebf?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9997105598449707
+    }
+  },
+  {
+    "text": "class trong c++",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.993918776512146
+    }
+  },
+  {
+    "text": "gi\u1edd mu\u1ed1n vi\u1ebft to\u00e1n t\u1eed gi\u1ea3m th\u00ec ph\u1ea3i sao th\u1ebf botchat?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.4482753574848175
+    }
+  },
+  {
+    "text": "T\u1ea7m quan tr\u1ecdng c\u1ee7a con tr\u1ecf",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.6629588007926941
+    }
+  },
+  {
+    "text": "Operator trong lap trinh dung de lam cai veo gi?",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9983158707618713
+    }
+  },
+  {
+    "text": "tao n\u00ean include library l\u00fac n\u00e0o \u0111\u00e2y m?",
+    "intent": "cpplus_when_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.2529006600379944
+    }
+  },
+  {
+    "text": "Tao ph\u1ea3i vi\u1ebft comment ch\u1ed7 n\u00e0o?",
+    "intent": "cpplus_where_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.8390216827392578
+    }
+  },
+  {
+    "text": "covid m\u01b0\u1eddi ch\u00edn",
+    "intent": "corona",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.413505882024765
+    }
+  },
+  {
+    "text": "d\u1ecbch covid t\u1ea1i tphcm",
+    "intent": "corona",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.34687089920043945
+    }
+  },
+  {
+    "text": "Co ro na la gi v",
+    "intent": "corona",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5852746963500977
+    }
+  },
+  {
+    "text": "Cho toi hoi ban la ai",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.8351821899414062
+    }
+  },
+  {
+    "text": "B\u1ea1n c\u00f3 ph\u1ea3i thu\u1ed9c v\u1ec1 l\u0129nh v\u1ef1c NLP kh\u00f4ng ?",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.40559691190719604
+    }
+  },
+  {
+    "text": "noi tao nghe ten may",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8372367024421692
+    }
+  },
+  {
+    "text": "OK GI\u1edc GI\u1ea2I V\u00c0I B\u00c0I CODE TRC KHI \u0110I NG\u1ee6 N\u00c0O",
+    "intent": "want_to_practice_cpp",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.5688374638557434
+    }
+  },
+  {
+    "text": "b\u1ed1 m c\u1ea7n luy\u1ec7n h\u00e0m",
+    "intent": "cpp_practice",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.37384143471717834
+    }
+  },
+  {
+    "text": "Luy\u1ec7n if",
+    "intent": "cpp_practice",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.37027716636657715
+    }
+  },
+  {
+    "text": "H\u00f4m ng\u00e0y l\u00e0 ng\u00e0y m\u1ea5y?",
+    "intent": "date",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.552068829536438
+    }
+  },
+  {
+    "text": "Cho h\u1ecfi ng\u00e0y c\u00e1i?",
+    "intent": "date",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.8543080687522888
+    }
+  },
+  {
+    "text": "SAO L\u1ea0I PH\u1ea2I N\u00d3I TH\u00caM V\u1ee4 N\u00c0Y N\u1eeeA TH\u1ebe?",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.958216667175293
+    }
+  },
+  {
+    "text": "\u01a1 m \u0111ang ra l\u1ec7nh cho t \u0111\u1ea5y \u00e0?",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.3246406018733978
+    }
+  },
+  {
+    "text": "\u1ee6a n\u00e8 h\u1ecfi zay l\u00e0m j th\u1ebf ?",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.5226433873176575
+    }
+  },
+  {
+    "text": "Tai s lai can lam v?",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.27805766463279724
+    }
+  },
+  {
+    "text": "T\u1ea1i s l\u1ea1i c\u1ea7n c\u00e1i b\u00e0i nh\u01b0 v",
+    "intent": "dont_want_to_give_cpp_content",
+    "intent_prediction": {
+      "name": "dont_want_to_give_flowchart_quest_num",
+      "confidence": 0.6794225573539734
+    }
+  },
+  {
+    "text": "v\u00ec sao t l\u1ea1i ph\u1ea3i tr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi \u0111\u1ea5y ?",
+    "intent": "dont_want_to_give_cpp_content",
+    "intent_prediction": {
+      "name": "dont_want_to_give_flowchart_quest_num",
+      "confidence": 0.999893307685852
+    }
+  },
+  {
+    "text": "C++ COMMENT TUTORIALS",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.8378633856773376
+    }
+  },
+  {
+    "text": "N\u00c8 BOT NGU \u0110\u01afA TAO LINK VIDEO LIBRARY C++ COI M\u00c0Y",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.8256920576095581
+    }
+  },
+  {
+    "text": "C++ comment tutorials",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.997774064540863
+    }
+  },
+  {
+    "text": "video tutorials link vector C++",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.8598032593727112
+    }
+  },
+  {
+    "text": "Cho m\u00ecnh xin video v\u1ec1 h\u00e0m",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.7461976408958435
+    }
+  },
+  {
+    "text": "e",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.5465595126152039
+    }
+  },
+  {
+    "text": "a l\u00f4",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.8526173233985901
+    }
+  },
+  {
+    "text": "yooo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.8750097155570984
+    }
+  },
+  {
+    "text": "yo yo yo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.8837388157844543
+    }
+  },
+  {
+    "text": "H\u00fa",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.6345425248146057
+    }
+  },
+  {
+    "text": "Hi bott iuuu",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.3591741621494293
+    }
+  },
+  {
+    "text": "alo alo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.2592714726924896
+    }
+  },
+  {
+    "text": "Bi\u1ebft anh Ti\u1ebfn \u0110\u1ed7 kh\u00f4ng b\u1ea1n?\t",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.8647332787513733
+    }
+  },
+  {
+    "text": "AI DA TAO RA MAY",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.41545963287353516
+    }
+  },
+  {
+    "text": "who created you ?",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.46539008617401123
+    }
+  },
+  {
+    "text": "Tac gia thiet ke may la ai",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.8065384030342102
+    }
+  },
+  {
+    "text": "ai da lap trinh ra may",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6760330200195312
+    }
+  },
+  {
+    "text": "HEI",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9912384152412415
+    }
+  },
+  {
+    "text": "\u00c0 L\u00d4",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.6060424447059631
+    }
+  },
+  {
+    "text": "RING RING",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4396921992301941
+    }
+  },
+  {
+    "text": "cough",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.8641991019248962
+    }
+  },
+  {
+    "text": "C\u00d2N M TH\u00cc NH\u01af L\u00c0O???",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9994727373123169
+    }
+  },
+  {
+    "text": "T ngh\u0129 ch\u1eafc m m\u00e3i kh\u1ecfe th\u00f4i m\u00e0 nh\u1ec9",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.5603752136230469
+    }
+  },
+  {
+    "text": "C\u00f2n m th\u00ec nh\u01b0 l\u00e0o???",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9568012356758118
+    }
+  },
+  {
+    "text": "I'm good, c\u00f2n m?",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "cpplus_when_asking",
+      "confidence": 0.2257804572582245
+    }
+  },
+  {
+    "text": "H\u1eb9n g\u1eb7p l\u1ea1i",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5491958856582642
+    }
+  },
+  {
+    "text": "tao \u0111i \u0111\u00e2y con trai",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.623645544052124
+    }
+  },
+  {
+    "text": "H\u1eb9n ng\u00e0y mai",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.32207080721855164
+    }
+  },
+  {
+    "text": "\u0111\u1ec3 d\u1ecbp kh\u00e1c n\u00f3i ti\u1ebfp nha",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.9169644713401794
+    }
+  },
+  {
+    "text": "th\u00f4i tui ph\u1ea3i ch\u1ea1y dl :))",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.8513994812965393
+    }
+  },
+  {
+    "text": "Th\u00f4i tui ph\u1ea3i ch\u1ea1y dl :))",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.707053542137146
+    }
+  },
+  {
+    "text": "that sounds good",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.6475749015808105
+    }
+  },
+  {
+    "text": "okela :v",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "corona",
+      "confidence": 0.5210926532745361
+    }
+  },
+  {
+    "text": "\u0111\u01b0\u01a1ng nhi\u00ean",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.40984466671943665
+    }
+  },
+  {
+    "text": "ho\u00e0n to\u00e0n \u0111\u00fang",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5306539535522461
+    }
+  },
+  {
+    "text": "QU\u00c1 CH\u00cdNH X\u00c1C",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.45696502923965454
+    }
+  },
+  {
+    "text": "\u0110\u1ec8NH V\u00c3I",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.6589192748069763
+    }
+  },
+  {
+    "text": "b\u1ea1n kh\u00f4ng hi\u1ec3u \u00e0",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.8296201229095459
+    }
+  },
+  {
+    "text": "noi cdj the bot ngu",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.7143204212188721
+    }
+  },
+  {
+    "text": "bro noi the chua dung dau",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.926461935043335
+    }
+  },
+  {
+    "text": "M\u00ecnh h\u1ecfi m\u00e0 b\u1ea1n to\u00e0n tr\u1ea3 l\u1eddi kh\u00f4ng \u0111\u01b0\u1ee3c",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.7752532362937927
+    }
+  },
+  {
+    "text": "GH\u00ca",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.3760451078414917
+    }
+  },
+  {
+    "text": "R\u1ea4T HAY",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5162132978439331
+    }
+  },
+  {
+    "text": "NGOAN L\u1eaeM",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8310053944587708
+    }
+  },
+  {
+    "text": "KH\u00c1",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.901584267616272
+    }
+  },
+  {
+    "text": "KH\u00c1 KHEN CHO NH\u00c0 NG\u01af\u01a0I",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.4471890330314636
+    }
+  },
+  {
+    "text": "Gh\u00ea",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.43503451347351074
+    }
+  },
+  {
+    "text": "R\u1ea5t hay",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.474605530500412
+    }
+  },
+  {
+    "text": "Gi\u1ecfi thi\u1ec7t s\u1ef1",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.3415164053440094
+    }
+  },
+  {
+    "text": "kh\u00e1",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.23722369968891144
+    }
+  },
+  {
+    "text": "vip pro lu\u00f4n ng\u01b0\u1eddi anh em",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9535403847694397
+    }
+  },
+  {
+    "text": "CHATBOT COI V\u1eacY M\u00c0 C\u0168NG CHI\u1ebeN PH\u1ebeT",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5039675235748291
+    }
+  },
+  {
+    "text": "Ok thanks nh\u00e9",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.5669218897819519
+    }
+  },
+  {
+    "text": "Thank you",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4417998790740967
+    }
+  },
+  {
+    "text": "thanks bot nha",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8863957524299622
+    }
+  },
+  {
+    "text": "M\u00ccNH V\u1eaaN GREAT",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.36744225025177
+    }
+  },
+  {
+    "text": "KH\u00c1 L\u00c0 OK",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.4506853520870209
+    }
+  },
+  {
+    "text": "D\u1ea0O N\u00c0Y TH\u00cc M\u00ccNH V\u1eaaN OK",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.9999356865882874
+    }
+  },
+  {
+    "text": "C\u1ee8 T\u1ea0M G\u1eccI L\u00c0 \u1ed4N \u0110I",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.8646648526191711
+    }
+  },
+  {
+    "text": "KH\u00d4NG NH\u1eeeNG KH\u1eceE M\u00c0 C\u00d2N \u0110ANG R\u1ea4T SUNG S\u1ee8C",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.9114137887954712
+    }
+  },
+  {
+    "text": "T c\u00f2n \u0111ang sung m\u00e3n m\u00e0",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9068549871444702
+    }
+  },
+  {
+    "text": "tao kho\u1ebb",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.5995706915855408
+    }
+  },
+  {
+    "text": "d\u1ea1o n\u00e0y th\u00ec m\u00ecnh v\u1eabn ok",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.9999236464500427
+    }
+  },
+  {
+    "text": "Kh\u00f4ng nh\u1eefng kh\u1ecfe m\u00e0 c\u00f2n \u0111ang r\u1ea5t sung s\u1ee9c",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.44020748138427734
+    }
+  },
+  {
+    "text": "B\u1ea1n c\u00f3 b\u1ecb ngu kh\u00f4ng ?",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.7216317057609558
+    }
+  },
+  {
+    "text": "S M C\u00d3 TH\u1ec2 NGU NH\u01af V\u1eacY \u0110\u01af\u1ee2C?",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7529721856117249
+    }
+  },
+  {
+    "text": "con ch\u00f3",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.8559426665306091
+    }
+  },
+  {
+    "text": "duma",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9745778441429138
+    }
+  },
+  {
+    "text": "Sao m ngu th\u1ebf",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9837180972099304
+    }
+  },
+  {
+    "text": "B\u1ea1n th\u1eadt l\u00e0 nh\u00e0m ch\u00e1n m\u00e0",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9948291778564453
+    }
+  },
+  {
+    "text": ":(",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9433553218841553
+    }
+  },
+  {
+    "text": "Awful",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.8407421708106995
+    }
+  },
+  {
+    "text": "not very good",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.7280396819114685
+    }
+  },
+  {
+    "text": "So sad",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.661329448223114
+    }
+  },
+  {
+    "text": "Th\u1eadt s\u1ef1 th\u1ea5t v\u1ecdng",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.47614219784736633
+    }
+  },
+  {
+    "text": "tao sad qu\u00e1",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.8503743410110474
+    }
+  },
+  {
+    "text": "M\u00e0y bi\u1ebfn \u0111i",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8257288932800293
+    }
+  },
+  {
+    "text": "HUII DC \u00d9I",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.839577853679657
+    }
+  },
+  {
+    "text": "Ch\u1edd x\u00ed \u0111\u00f3 tao h\u1ecfi m\u00e0y",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.49287834763526917
+    }
+  },
+  {
+    "text": "ko c\u1ea7n g\u00ec n\u1eefa",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.34224578738212585
+    }
+  },
+  {
+    "text": "khum",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.41916394233703613
+    }
+  },
+  {
+    "text": "Ok continue n\u00e8",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6338319182395935
+    }
+  },
+  {
+    "text": "C\u00f3",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9626056551933289
+    }
+  },
+  {
+    "text": "ok \u0111\u1ec3 suy ngh\u0129",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.986902117729187
+    }
+  },
+  {
+    "text": "oke \u0111\u1ee3i t\u00ed",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9795844554901123
+    }
+  },
+  {
+    "text": "MINH HOI BAN TI NHA",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.4920736849308014
+    }
+  },
+  {
+    "text": "Minh hoi ban ti nha",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.7995031476020813
+    }
+  },
+  {
+    "text": "Hoi lai lan nua",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.4200166165828705
+    }
+  },
+  {
+    "text": "M\u00ccNH H\u1eceI B\u1ea0N T\u00cd NHA",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.8678379058837891
+    }
+  },
+  {
+    "text": "Angular",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.9963240027427673
+    }
+  },
+  {
+    "text": "\u0110\u1ea1o H\u00e0m",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "thanks",
+      "confidence": 0.6405001282691956
+    }
+  },
+  {
+    "text": "tr\u1ee9ng c\u00f3 tr\u01b0\u1edbc hay g\u00e0 c\u00f3 tr\u01b0\u1edbc",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.46530354022979736
+    }
+  },
+  {
+    "text": "printf_s",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5593906044960022
+    }
+  },
+  {
+    "text": "Frf",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "want_to_practice_flowchart",
+      "confidence": 0.41694188117980957
+    }
+  },
+  {
+    "text": "Haha.",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.36962252855300903
+    }
+  },
+  {
+    "text": "K\u0129 thu\u1eadt c\u1eafm c\u1edd",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.3951023519039154
+    }
+  },
+  {
+    "text": "H\u00e0m conio l\u00e0m g\u00ec",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9999862313270569
+    }
+  },
+  {
+    "text": "Ph\u1ea1m vi bi\u1ebfn",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.32823446393013
+    }
+  },
+  {
+    "text": "wecode l\u00e0 g\u00ec",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9808815717697144
+    }
+  },
+  {
+    "text": "d\u1ecbch t\u1eeb c++ sang python \u0111\u01b0\u1ee3c kh\u00f4ng",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9926686882972717
+    }
+  },
+  {
+    "text": "Dhsjsjsjska",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.6885131597518921
+    }
+  },
+  {
+    "text": "/hi",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9992382526397705
+    }
+  },
+  {
+    "text": "Haha",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.36962252855300903
+    }
+  },
+  {
+    "text": "haha",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.20521947741508484
+    }
+  },
+  {
+    "text": "\u01b0 \u01b0 \u01b0",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.7490590810775757
+    }
+  },
+  {
+    "text": "m\u1ea5y gi\u1edd r\u1ed3i?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "time",
+      "confidence": 0.9758818745613098
+    }
+  },
+  {
+    "text": "th\u00edch coi phim k",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.9561171531677246
+    }
+  },
+  {
+    "text": "iu nhau k",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.24950973689556122
+    }
+  },
+  {
+    "text": "thi b\u1eb1ng l\u00e1i xe \u1edf \u0111\u00e2u",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_where_asking",
+      "confidence": 0.5391443371772766
+    }
+  },
+  {
+    "text": "qwerty",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.98828125
+    }
+  },
+  {
+    "text": "Abc",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.28180229663848877
+    }
+  },
+  {
+    "text": "Jsjskskskajsbs",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.4018253684043884
+    }
+  },
+  {
+    "text": "ram l\u00e0 c\u00e1i g\u00ec ?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9931778311729431
+    }
+  },
+  {
+    "text": "Doi net ve Do Tien",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8920416235923767
+    }
+  },
+  {
+    "text": "An example of Lambda function ?",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9964774250984192
+    }
+  },
+  {
+    "text": "C\u00e1ch vi\u1ebft m\u1ed9t ch\u01b0\u01a1ng tr\u00ecnh C++",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9564939737319946
+    }
+  },
+  {
+    "text": "EG V\u1ec0 H\u00c0M",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9629397988319397
+    }
+  },
+  {
+    "text": "E.G V\u1ec0 FUNCTION TH\u1eec XEM N\u00c0O",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.84837806224823
+    }
+  },
+  {
+    "text": "Eg ve ham",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "corona",
+      "confidence": 0.37629175186157227
+    }
+  },
+  {
+    "text": "eg ve ham",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "corona",
+      "confidence": 0.6375366449356079
+    }
+  },
+  {
+    "text": "EG VE HAM",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.9255256652832031
+    }
+  },
+  {
+    "text": "INPUT/OUTPUT TRONG C++",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.828149676322937
+    }
+  },
+  {
+    "text": "IF ELSE L\u00c0 GI?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9373742938041687
+    }
+  },
+  {
+    "text": "CHO TOI HOI THE NAO LA MOT STRING THE ?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.5162273049354553
+    }
+  },
+  {
+    "text": "\u00ca CON TR\u1ece L\u00c0 C\u00c1I CC G\u00cc V\u1eacY BOT?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.5227023959159851
+    }
+  },
+  {
+    "text": "CHO T\u00d4I H\u1eceI NTN L\u00c0 M\u1ed8T S\u1ed0 NGUY\u00caN?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.35310372710227966
+    }
+  },
+  {
+    "text": "MACRO L\u00c0 WTF",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.4117920696735382
+    }
+  },
+  {
+    "text": "WHAT ABOUT WCHAR_T?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.9584640860557556
+    }
+  },
+  {
+    "text": "nh\u1eefng ki\u1ebfn th\u1ee9c c\u01a1 b\u1ea3n v\u1ec1 h\u00e0m",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.7640518546104431
+    }
+  },
+  {
+    "text": "Input/output trong c++",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.994869589805603
+    }
+  },
+  {
+    "text": "Nh\u1eefng ki\u1ebfn th\u1ee9c c\u01a1 b\u1ea3n v\u1ec1 H\u00c0M",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.6650674343109131
+    }
+  },
+  {
+    "text": "pointer?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.8338993787765503
+    }
+  },
+  {
+    "text": "ENUM l\u00e0 c\u00e1i g\u00ec ?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.46271762251853943
+    }
+  },
+  {
+    "text": "Mang 2D",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.6299086213111877
+    }
+  },
+  {
+    "text": "De quy",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.5657752156257629
+    }
+  },
+  {
+    "text": "trong c++ variable duoc dinh nghia nhu the nao?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.7174255847930908
+    }
+  },
+  {
+    "text": "trong c++ Vong lap duoc dinh nghia ra sao?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.816413164138794
+    }
+  },
+  {
+    "text": "enum la j tml?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.45105573534965515
+    }
+  },
+  {
+    "text": "Reference variable?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.5611506700515747
+    }
+  },
+  {
+    "text": "cho h\u1ecfi REFERENCE VARIABLE?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.9258684515953064
+    }
+  },
+  {
+    "text": "tell me sth about binary operator, won't you?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.3738693594932556
+    }
+  },
+  {
+    "text": "\u00ca tao m\u1edbi h\u1ecdc, t th\u1eafc m\u1eafc k bi\u1ebft h\u00e0m main l\u00e0 j lu\u00f4n \u00e1",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.9821798801422119
+    }
+  },
+  {
+    "text": "cho hoi REFERENCE VARIABLE?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.6908893585205078
+    }
+  },
+  {
+    "text": "Sua gi ve comma operator xem",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.9037748575210571
+    }
+  },
+  {
+    "text": "\u00ca BOT CH\u1ec8 T C\u00c1CH S\u1eec D\u1ee4NG T\u1eea KH\u00d3A CONTINUE",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.7274337410926819
+    }
+  },
+  {
+    "text": "CACH VIET SWITCH CASE",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8641026616096497
+    }
+  },
+  {
+    "text": "\u00ca BOT \u01a0I HOW TO S\u1eec D\u1ee4NG COMMENT ?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "want_to_practice_cpp",
+      "confidence": 0.4677264392375946
+    }
+  },
+  {
+    "text": "bi\u1ebfn t\u0129nh dc khai b\u00e1o ra sao?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.703740656375885
+    }
+  },
+  {
+    "text": "v\u00f2ng l\u1eb7p dc vi\u1ebft sao?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9893763661384583
+    }
+  },
+  {
+    "text": "\u0111\u1ed1i s\u1ed1 khi truy\u1ec1n v\u00e0o 1 h\u00e0m dc tri\u1ec3n khai nh\u01b0 th\u1ebf n\u00e0o v bot?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.7462385892868042
+    }
+  },
+  {
+    "text": "e bot oi gio bo m muon dung cai toan tu -- thi lam kieu gi the bot?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.6822044849395752
+    }
+  },
+  {
+    "text": "ve flowchart la ve nhu the nao vay bot?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9999517798423767
+    }
+  },
+  {
+    "text": "dkm comment khi code \u0111\u1ec3 l\u00e0m c\u00e1i lz g\u00ec",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.36115527153015137
+    }
+  },
+  {
+    "text": "Operator trong l\u1eadp tr\u00ecnh d\u00f9ng \u0111\u1ec3 l\u00e0m c\u00e1i v\u1eb9o g\u00ec?",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9134026169776917
+    }
+  },
+  {
+    "text": "m\u1ed9t con corona l\u00e0 nh\u01b0 th\u1ebf n\u00e0o",
+    "intent": "corona",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8094490766525269
+    }
+  },
+  {
+    "text": "C\u1ed3 r\u00f4 n\u00e0 l\u00e0 g\u00ec v",
+    "intent": "corona",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.934118926525116
+    }
+  },
+  {
+    "text": "Ncov",
+    "intent": "corona",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.519381046295166
+    }
+  },
+  {
+    "text": "Co rau na",
+    "intent": "corona",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.22381450235843658
+    }
+  },
+  {
+    "text": "who r u",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.3184494376182556
+    }
+  },
+  {
+    "text": "L\u00e0m b\u00e0i code tay",
+    "intent": "want_to_practice_cpp",
+    "intent_prediction": {
+      "name": "want_to_practice_flowchart",
+      "confidence": 0.6633842587471008
+    }
+  },
+  {
+    "text": "L\u00e0m b\u00e0i luy\u1ec7n code",
+    "intent": "want_to_practice_cpp",
+    "intent_prediction": {
+      "name": "cpp_practice",
+      "confidence": 0.833973228931427
+    }
+  },
+  {
+    "text": "Gui cho toi 1 so cac cai cau hoi lien quan den C++ de",
+    "intent": "want_to_practice_cpp",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.35443055629730225
+    }
+  },
+  {
+    "text": "LUY\u1ec6N IF",
+    "intent": "cpp_practice",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.685694694519043
+    }
+  },
+  {
+    "text": "\u0110\u01afA B\u1ed0 M C\u00c1C B\u00c0I V\u1ec0 SWITCH \u0110\u00c2Y M",
+    "intent": "cpp_practice",
+    "intent_prediction": {
+      "name": "flowchart_asking",
+      "confidence": 0.3599695861339569
+    }
+  },
+  {
+    "text": "TH\u1ef0C H\u00c0NH V\u1ebc V\u1edcI L\u01afU \u0110\u1ed2",
+    "intent": "want_to_practice_flowchart",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.3455517292022705
+    }
+  },
+  {
+    "text": "G\u1eecI B\u1ed0 M\u00c0Y M\u1ed8T LO\u1ea0T B\u00c0I FLOWCHART \u0110\u1ec2 V\u1ebc COI N\u00c0O",
+    "intent": "want_to_practice_flowchart",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.4754859209060669
+    }
+  },
+  {
+    "text": "Bai tap 3 di bot",
+    "intent": "flowchart_asking",
+    "intent_prediction": {
+      "name": "want_to_practice_cpp",
+      "confidence": 0.5037174224853516
+    }
+  },
+  {
+    "text": "What time is it ?",
+    "intent": "time",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9546526670455933
+    }
+  },
+  {
+    "text": "time \u0111\u01b0\u1ee3c bao nhi\u00eau r\u1ed3i ?",
+    "intent": "time",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.48336899280548096
+    }
+  },
+  {
+    "text": "Bot \u01a1i h\u00f4m nay l\u00e0 th\u1ee9 m\u1ea5y v\u1eady?",
+    "intent": "date",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.4842870831489563
+    }
+  },
+  {
+    "text": "V\u00cc S M L\u1ea0I C\u1ea6N C\u00c1I TH\u00d4NG TIN \u0110\u1ea4Y V BOT?",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.5216899514198303
+    }
+  },
+  {
+    "text": "t\u1ea1i sao m l\u1ea1i c\u1ea7n th\u00f4ng tin \u0111\u00f3 v",
+    "intent": "dont_want_to_give_cpp_content",
+    "intent_prediction": {
+      "name": "dont_want_to_give_flowchart_quest_num",
+      "confidence": 0.9690957069396973
+    }
+  },
+  {
+    "text": "\u00ca BOT NGU M\u1ede T B\u00c0I GI\u1ea2NG NH\u1eacP M\u00d4N L\u1eacP TR\u00ccNH UIT \u0110I",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "want_to_practice_flowchart",
+      "confidence": 0.4616633951663971
+    }
+  },
+  {
+    "text": "link tutorials c++ uit",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.8135389089584351
+    }
+  },
+  {
+    "text": "g\u1eedi cho b\u1ed1 m m\u1ea5y c\u00e1i link d\u1ea1y l\u00fd thuy\u1ebft c++ c\u00e1i coi bot ngu",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.8569928407669067
+    }
+  },
+  {
+    "text": "\u00ca SEND T B\u00c0I V\u1ec0 LIBRARY \u0110I",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.39188554883003235
+    }
+  },
+  {
+    "text": "Cho m\u00ecnh xin video v\u00f2ng l\u1eb7p for \u0111i",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.7587828040122986
+    }
+  },
+  {
+    "text": "video v\u1ec1 con tr\u1ecf v\u00e0 m\u1ea3ng",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.9876154661178589
+    }
+  },
+  {
+    "text": "E send t bai ve library di",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.5469714403152466
+    }
+  },
+  {
+    "text": "\u00c0 L\u1ed0",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.6112930178642273
+    }
+  },
+  {
+    "text": "YO WTF",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5791909694671631
+    }
+  },
+  {
+    "text": "YO \u01afTF",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5095339417457581
+    }
+  },
+  {
+    "text": "\u00ca TH\u1eb0NG KIA",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.9418708086013794
+    }
+  },
+  {
+    "text": "N\u00c0Y TH\u1eb0NG KIA",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.28577351570129395
+    }
+  },
+  {
+    "text": "\u00ea th\u1eb1ng kia",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.3734453320503235
+    }
+  },
+  {
+    "text": "n\u0129 h\u00e3o",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.5017194747924805
+    }
+  },
+  {
+    "text": "\u00ca bro",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.7883620858192444
+    }
+  },
+  {
+    "text": "l\u00f4",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.9838230609893799
+    }
+  },
+  {
+    "text": "Hello tinh yeu",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.41275909543037415
+    }
+  },
+  {
+    "text": "CHO T H\u1eceI NG\u01af\u1edcI L\u00c0M RA C\u00c1I N\u00c0Y",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.3439163565635681
+    }
+  },
+  {
+    "text": "LINK FACE T\u00c1C GI\u1ea2",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.9499979615211487
+    }
+  },
+  {
+    "text": "TAC GIA THIET KE MAY LA AI",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.998615562915802
+    }
+  },
+  {
+    "text": "\u00ca ai l\u00e0m ra m\u00e0y v",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.8964598774909973
+    }
+  },
+  {
+    "text": "cho tui link facebook tac gia cua du an nay di",
+    "intent": "who_create_you",
+    "intent_prediction": {
+      "name": "flowchart_asking",
+      "confidence": 0.8478082418441772
+    }
+  },
+  {
+    "text": "\u00ca DUMA",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9364799857139587
+    }
+  },
+  {
+    "text": "C\u00daC CU",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.7474415302276611
+    }
+  },
+  {
+    "text": "QU\u00c2Y",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.6360138058662415
+    }
+  },
+  {
+    "text": "A H\u00c8M",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.6185800433158875
+    }
+  },
+  {
+    "text": "\u00ea dcm",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.9205934405326843
+    }
+  },
+  {
+    "text": "\u00ea th lz",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.9963312745094299
+    }
+  },
+  {
+    "text": "hey yo wtf",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9928627014160156
+    }
+  },
+  {
+    "text": "D\u1ea0O N\u00c0Y EM IU \u1ed4N H\u01a0M",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.7533687353134155
+    }
+  },
+  {
+    "text": "EM KH\u1eceE, C\u00d2N TH\u1ea6Y?",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.9747194647789001
+    }
+  },
+  {
+    "text": "M TH\u00cc SAO, \u1ede \u0110\u00d3 M\u00c0 H\u1eceI TAO",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.46930503845214844
+    }
+  },
+  {
+    "text": "I'M GOOD, C\u00d2N M?",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9349315166473389
+    }
+  },
+  {
+    "text": "OK, AND U?",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2823062539100647
+    }
+  },
+  {
+    "text": "v\u1eeba r\u1ed3i cu\u1ed9c s\u1ed1ng th\u1ebf n\u00e0o",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.5767270922660828
+    }
+  },
+  {
+    "text": "b\u1eefa gi\u1edd m sao r k\u1ec3 t nghe",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.6080511808395386
+    }
+  },
+  {
+    "text": "Ok, and u?",
+    "intent": "health_inquire",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.7169999480247498
+    }
+  },
+  {
+    "text": "t\u1ea1m bi\u1ec7t",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.9277703762054443
+    }
+  },
+  {
+    "text": "T\u1ea1m bi\u1ec7t nha",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.3960385322570801
+    }
+  },
+  {
+    "text": "pipi",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "flowchart_asking",
+      "confidence": 0.42209744453430176
+    }
+  },
+  {
+    "text": "yes",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.6914029717445374
+    }
+  },
+  {
+    "text": "correct",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4642571210861206
+    }
+  },
+  {
+    "text": "d\u0129 nhi\u00ean",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.9314987063407898
+    }
+  },
+  {
+    "text": "kh\u00f4ng th\u1ec3 ch\u00ednh x\u00e1c h\u01a1n \u0111\u01b0\u1ee3c n\u1eefa",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.5355349779129028
+    }
+  },
+  {
+    "text": "oke",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5525274276733398
+    }
+  },
+  {
+    "text": "\u0111\u00fang \u1eddi",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.5114546418190002
+    }
+  },
+  {
+    "text": "\u00f4 kh\u00ea",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.50001460313797
+    }
+  },
+  {
+    "text": "GOOD V\u00c3I LZZ",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.9767878651618958
+    }
+  },
+  {
+    "text": "R\u00f9i ok n\u00e8",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.6235992312431335
+    }
+  },
+  {
+    "text": "C\u00f3",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.9823525547981262
+    }
+  },
+  {
+    "text": "Hong",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6570557355880737
+    }
+  },
+  {
+    "text": "Clgt",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.5260871648788452
+    }
+  },
+  {
+    "text": "HONG PH\u1ea2I Z\u1eca \u00d9I",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.20432937145233154
+    }
+  },
+  {
+    "text": "QU\u00c1 CHU\u1ea8N LU\u00d4N",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7227776646614075
+    }
+  },
+  {
+    "text": "VIP PRO LU\u00d4N NG\u01af\u1edcI ANH EM",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.6993398070335388
+    }
+  },
+  {
+    "text": "l\u00e0m t\u1ed1t l\u1eafm",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6894215941429138
+    }
+  },
+  {
+    "text": "\u0111\u01b0\u1ee3c b\u1ea1n \u01a1i",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7763639688491821
+    }
+  },
+  {
+    "text": "Bot gi\u1ecfi qu\u00e1 taaa",
+    "intent": "compliment",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.5920363664627075
+    }
+  },
+  {
+    "text": "\u0110A T\u1ea0",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.37505269050598145
+    }
+  },
+  {
+    "text": "C\u00e1m \u01a1n chatbot nhi\u1ec1u, ch\u00fac chatbot ng\u00e0y m\u1edbi t\u1ed1t l\u00e0nh",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.3543761968612671
+    }
+  },
+  {
+    "text": "\u1ed4N",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.6183161735534668
+    }
+  },
+  {
+    "text": "Absolutely fine",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.6907001733779907
+    }
+  },
+  {
+    "text": "Very okay, thank you",
+    "intent": "feeling_good",
+    "intent_prediction": {
+      "name": "thanks",
+      "confidence": 0.9268437027931213
+    }
+  },
+  {
+    "text": "L\u1ed3n m\u00e1",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "feeling_good",
+      "confidence": 0.4426085948944092
+    }
+  },
+  {
+    "text": "Cc",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.3150966763496399
+    }
+  },
+  {
+    "text": "DD\u1ee4 M\u00c1 M\u00c0Y LU\u00d4N",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.44457176327705383
+    }
+  },
+  {
+    "text": "S m c\u00f3 th\u1ec3 nGU nh\u01b0 v\u1eady \u0111\u01b0\u1ee3c?",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5209463834762573
+    }
+  },
+  {
+    "text": "DD\u1ee5 m\u00e1 m\u00e0y lu\u00f4n",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "thanks",
+      "confidence": 0.3820889890193939
+    }
+  },
+  {
+    "text": "dumemay",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.3463186025619507
+    }
+  },
+  {
+    "text": "Tao chu\u1ea9n b\u1ecb ch\u1eedi m\u00e0y n\u00e8",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6116814017295837
+    }
+  },
+  {
+    "text": "pussy",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.457385390996933
+    }
+  },
+  {
+    "text": "die",
+    "intent": "insult",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.8173843622207642
+    }
+  },
+  {
+    "text": "m\u00ecnh n\u00f3i m\u00ecnh khoogn \u1ed5n",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.47036460041999817
+    }
+  },
+  {
+    "text": "tr\u1ea7m c\u1ea3m lu\u00f4n",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9702820777893066
+    }
+  },
+  {
+    "text": "H\u01a1i m\u1ec7t \ud83d\ude25",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.9366216659545898
+    }
+  },
+  {
+    "text": "R\u1edbt m\u00f4n gi\u1ea3i t\u00edch th\u00ec ph\u1ea3i l\u00e0m sao",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.6061938405036926
+    }
+  },
+  {
+    "text": "bu\u1ed3n hiu lu\u00f4n",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.4993000328540802
+    }
+  },
+  {
+    "text": "AH KH\u00d4NG C\u00d3 G\u00cc \u0110\u00c2U NHA",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6735532879829407
+    }
+  },
+  {
+    "text": "NGH\u1ec8 CMM \u0110I",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.6328052878379822
+    }
+  },
+  {
+    "text": "T\u1eea T\u1eea L\u00c1T E H\u1eceI NHA",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "want_to_ask",
+      "confidence": 0.6297340393066406
+    }
+  },
+  {
+    "text": "Ah kh\u00f4ng c\u00f3 g\u00ec \u0111\u00e2u nha",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4610825479030609
+    }
+  },
+  {
+    "text": "Ngh\u1ec9",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.607612133026123
+    }
+  },
+  {
+    "text": "/deny",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.38738906383514404
+    }
+  },
+  {
+    "text": "\u0111\u1ee3i suy ngh\u0129 c\u00e1i",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9692935943603516
+    }
+  },
+  {
+    "text": "\u00f4 kh\u00ea \u0111\u1ee3i t suy ngh\u0129 c\u00e1i",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7590841054916382
+    }
+  },
+  {
+    "text": "mu\u1ed1n ch\u1ee9",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "health_inquire",
+      "confidence": 0.7909327745437622
+    }
+  },
+  {
+    "text": "Hoi cac kien thuc ve C++",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.5428544282913208
+    }
+  },
+  {
+    "text": "int main()",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.6518594622612
+    }
+  },
+  {
+    "text": "c\u00f4ng ngh\u1ec7 th\u00f4ng tin l\u00e0 g\u00ec",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9994988441467285
+    }
+  },
+  {
+    "text": "bla bla",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5567269921302795
+    }
+  },
+  {
+    "text": "A",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9171802401542664
+    }
+  },
+  {
+    "text": "--version",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8646001815795898
+    }
+  },
+  {
+    "text": "K\u1ebf th\u1eeba trong C++",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8462852835655212
+    }
+  },
+  {
+    "text": "/c\u00e2u 3",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "flowchart_asking",
+      "confidence": 0.9990218281745911
+    }
+  },
+  {
+    "text": "/q",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.8821717500686646
+    }
+  },
+  {
+    "text": "Th\u1ebf n\u00e0o l\u00e0 point er",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.999873161315918
+    }
+  },
+  {
+    "text": "hihi",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.44614145159721375
+    }
+  },
+  {
+    "text": "h\u00f4m nay ng\u00e0y m\u1ea5y?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "date",
+      "confidence": 0.869872510433197
+    }
+  },
+  {
+    "text": "cho h\u1ecfi m\u1ea5y gi\u1edd r\u1ed3i",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "time",
+      "confidence": 0.802735447883606
+    }
+  },
+  {
+    "text": "h\u00e1t cho tui nghe \u0111i",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5532395243644714
+    }
+  },
+  {
+    "text": "ch\u1edf tui \u0111i ch\u01a1i v\u1edbi nha",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.7418192028999329
+    }
+  },
+  {
+    "text": "c\u00e1ch l\u00e1i xe m\u00e1y",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.9668990969657898
+    }
+  },
+  {
+    "text": "h\u00e1t cho t nghe \u0111i",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5905070900917053
+    }
+  },
+  {
+    "text": "t\u1ed1c chi\u1ebfn \u0111\u00ea",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5479512810707092
+    }
+  },
+  {
+    "text": "232131255468787690",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "flowchart_asking",
+      "confidence": 0.9827075004577637
+    }
+  },
+  {
+    "text": "t iu ma",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.5424423217773438
+    }
+  },
+  {
+    "text": "H\u00f4m nay l\u00e0 ng\u00e0y m\u1ea5y",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "date",
+      "confidence": 0.8845450282096863
+    }
+  },
+  {
+    "text": "M\u1ea3nh",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "thanks",
+      "confidence": 0.8538220524787903
+    }
+  },
+  {
+    "text": "thay Do Tien thuong noi gi khi tre deadlines",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9395668506622314
+    }
+  },
+  {
+    "text": "how to print hello world",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9680070281028748
+    }
+  },
+  {
+    "text": "l\u00e0m sao in hello world tr\u00ean c++",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.9910797476768494
+    }
+  },
+  {
+    "text": "l\u1ed7i is not declared",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.5806751251220703
+    }
+  },
+  {
+    "text": "cho m\u00ecnh 1 c\u00e1i example v\u1ec1 if th\u1eed coi n\u00e8",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.8994699716567993
+    }
+  },
+  {
+    "text": "give me an example of scope resolution operator",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "who_create_you",
+      "confidence": 0.5521528124809265
+    }
+  },
+  {
+    "text": "GIVE ME AN EXAMPLE OF SCOPE RESOLUTION OPERATOR",
+    "intent": "cpplus_example_asking",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.6537002325057983
+    }
+  },
+  {
+    "text": "To\u00e1n th\u1eed \u0111\u1ecba ch\u1ec9",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.43728020787239075
+    }
+  },
+  {
+    "text": "bi\u1ebfn ?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.5723176002502441
+    }
+  },
+  {
+    "text": "cho m\u00ecnh h\u1ecfi v\u1ec1 l\u01b0u \u0111\u1ed3 thu\u1eadt to\u00e1n v\u1edbi \u1ea1 !",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "want_to_practice_flowchart",
+      "confidence": 0.7050967216491699
+    }
+  },
+  {
+    "text": "C++ l\u00e0 c\u00e1i qu\u00e1i g\u00ec v\u1eady?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.5325690507888794
+    }
+  },
+  {
+    "text": "comment l\u00e0 g\u00ec?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.8505806922912598
+    }
+  },
+  {
+    "text": "Bi\u1ebfn l\u00e0 g\u00ec?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5436460375785828
+    }
+  },
+  {
+    "text": "bi\u1ebfn l\u00e0 c\u00e1i qu\u00e1i g\u00ec th\u1ebf?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9256695508956909
+    }
+  },
+  {
+    "text": "v\u00f2ng l\u1eb7p l\u00e0 g\u00ec?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.525240421295166
+    }
+  },
+  {
+    "text": "float l\u00e0 g\u00ec",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.8534889221191406
+    }
+  },
+  {
+    "text": "luu do thuat toan  ?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "want_to_practice_flowchart",
+      "confidence": 0.9900414943695068
+    }
+  },
+  {
+    "text": "Ham",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9688749313354492
+    }
+  },
+  {
+    "text": "C++ la cai quai gi vay?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.9997444748878479
+    }
+  },
+  {
+    "text": "bien la cai quai gi the?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "who_are_you",
+      "confidence": 0.5207769870758057
+    }
+  },
+  {
+    "text": "bi\u1ebfn to\u00e0n c\u1ee5c l\u00e0 sao r\u1ee9a mi",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.8312566876411438
+    }
+  },
+  {
+    "text": "S\u1eed d\u1ee5ng t\u1eeb kh\u00f3a static khi m\u00ecnh khai b\u00e1o m\u1ed9t bi\u1ebfn th\u00ec c\u00f3 th\u00eam t\u00e1c d\u1ee5ng g\u00ec k bot?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.9022406935691833
+    }
+  },
+  {
+    "text": "Vector l\u00e0 g\u00ec?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6167006492614746
+    }
+  },
+  {
+    "text": "Comma operator",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "corona",
+      "confidence": 0.3762266933917999
+    }
+  },
+  {
+    "text": "V\u00f2ng l\u1eb7p For la sao",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.9466367363929749
+    }
+  },
+  {
+    "text": "ch\u1ec9 tao v\u1ec1 tham chi\u1ebfu h\u1eb1ng coi con \u0111\u0129 bot",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.4804658591747284
+    }
+  },
+  {
+    "text": "Tham s\u1ed1 m\u1eb7c nhi\u00ean",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.3832080364227295
+    }
+  },
+  {
+    "text": "ki\u1ec3u d\u1eef li\u1ec7u l\u00e0 chi n\u00e0?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6943750381469727
+    }
+  },
+  {
+    "text": "Ban luan ve mang hai chieu xem sao nao",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.48901110887527466
+    }
+  },
+  {
+    "text": "Array l\u00e0 g\u00ec",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9199106693267822
+    }
+  },
+  {
+    "text": "Return l\u00e0 g\u00ec",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5912452340126038
+    }
+  },
+  {
+    "text": "bien toan cuc la sao rua mi",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.6696479320526123
+    }
+  },
+  {
+    "text": "Unsigned la sao",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.6926623582839966
+    }
+  },
+  {
+    "text": "\u0110\u1ecbnh ngh\u0129a v\u1ec1 M\u1ea3ng 1 chi\u1ec1u \u0111i bot",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.9963266253471375
+    }
+  },
+  {
+    "text": "b\u1ecb l\u1ed7i include ph\u1ea3i l\u00e0m sao",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.31432265043258667
+    }
+  },
+  {
+    "text": "TRONG C++ C\u00d3 1 KH\u00c1I NI\u1ec6M L\u00c0 H\u00c0M MACRO TH\u00cc TRI\u1ec2N KHAI TRONG CODE NTN V BOT?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.31449034810066223
+    }
+  },
+  {
+    "text": "KI\u1ec2U BOOL D\u00d9NG TH\u1ebe QU\u00c1I N\u00c0O V BOT?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.7634955048561096
+    }
+  },
+  {
+    "text": "Const trong c++ khi mu\u1ed1n d\u00f9ng th\u00ec m\u00ecnh c\u1ea7n ph\u1ea3i vi\u1ebft ntn v bot nh\u1ec9?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.9676985144615173
+    }
+  },
+  {
+    "text": "1 bi\u1ebfn ki\u1ec3u string th\u00ec c\u1ea7n ph\u1ea3i th\u1ebf n\u00e0o m\u1edbi x\u00e0i dc",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "cpplus_when_asking",
+      "confidence": 0.38641706109046936
+    }
+  },
+  {
+    "text": "bi\u1ebfn c\u1ee5c b\u1ed9 dc khai b\u00e1o n\u00e0m thao th\u00eda ?",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6817095279693604
+    }
+  },
+  {
+    "text": "C\u00e1ch v\u1ebd flowchart",
+    "intent": "cpplus_how_asking",
+    "intent_prediction": {
+      "name": "want_to_practice_flowchart",
+      "confidence": 0.6741614937782288
+    }
+  },
+  {
+    "text": "V\u00cc G\u00cc M\u00c0 C\u1ea6N PH\u1ea2I X\u00c0I M\u1ea2NG M\u1ed8T CHI\u1ec0U?",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "cpplus_example_asking",
+      "confidence": 0.6279088258743286
+    }
+  },
+  {
+    "text": "T\u1ea0I SAO KHAI B\u00c1O TH\u01af VI\u1eb8NH\u01af VI\u1eb8N VI\u1eb8N",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "dont_want_to_give_flowchart_quest_num",
+      "confidence": 0.3854910731315613
+    }
+  },
+  {
+    "text": "Kh\u00f4ng c\u1ea7n hi\u1ec3u con tr\u1ecf c\u00f3 h\u1ecdc t\u1ed1t nh\u1eadp m\u00f4n l\u1eadp tr\u00ecnh \u0111\u01b0\u1ee3c kh\u00f4ng",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.497318297624588
+    }
+  },
+  {
+    "text": "d\u00f9ng bi\u1ebfn t\u0129nh chi v m",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.8246931433677673
+    }
+  },
+  {
+    "text": "global variable, vi sao hoc???",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.8153608441352844
+    }
+  },
+  {
+    "text": "Ly do gi ma lai co unary operator the?",
+    "intent": "cpplus_why_asking",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.5164242386817932
+    }
+  },
+  {
+    "text": "tao n\u00ean s\u1eed d\u1ee5ng t\u00ednh n\u0103ng library khi n\u00e0o v bot?",
+    "intent": "cpplus_when_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.7498010396957397
+    }
+  },
+  {
+    "text": "gi\u1edd tao vi\u1ebft d\u00f2ng khai b\u00e1o library \u1edf ch\u1ed7 n\u00e0o \u0111\u00e2y m?",
+    "intent": "cpplus_where_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.6560220718383789
+    }
+  },
+  {
+    "text": "c\u00f4 v\u00edt",
+    "intent": "corona",
+    "intent_prediction": {
+      "name": "compliment",
+      "confidence": 0.31664809584617615
+    }
+  },
+  {
+    "text": "n\u00f3i cho ta bi\u1ebft t\u00ean nh\u00e0 ng\u01b0\u1eddi l\u00e0 g\u00ec",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6813416481018066
+    }
+  },
+  {
+    "text": "b\u1ea3n ch\u1ea5t c\u1ee7a m l\u00e0 g\u00ec",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5654000043869019
+    }
+  },
+  {
+    "text": "c\u1eadu l\u00e0 ai",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "who_create_you",
+      "confidence": 0.6384990811347961
+    }
+  },
+  {
+    "text": "Nickname c\u1ee7a m l\u00e0 g\u00ec",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.5376865863800049
+    }
+  },
+  {
+    "text": "b\u1ea1n m\u1ea5y tu\u1ed5i",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "time",
+      "confidence": 0.38100484013557434
+    }
+  },
+  {
+    "text": "noi cho ta biet ten nha nguoi la gi",
+    "intent": "who_are_you",
+    "intent_prediction": {
+      "name": "cpplus_what_asking",
+      "confidence": 0.9987246990203857
+    }
+  },
+  {
+    "text": "B\u00c0I \u00d4N NMLT",
+    "intent": "want_to_practice_cpp",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.7729911208152771
+    }
+  },
+  {
+    "text": "G\u1eecI CHO T\u00d4I 1 S\u1ed0 C\u00c1C C\u00c1I C\u00c2U H\u1eceI LI\u00caN QUAN \u0110\u1ebeN C++ \u0110\u00ca",
+    "intent": "want_to_practice_cpp",
+    "intent_prediction": {
+      "name": "dont_want_to_give_flowchart_quest_num",
+      "confidence": 0.4853295385837555
+    }
+  },
+  {
+    "text": "cho t 1 s\u1ed1 b\u00e0i \u00f4n luy\u1ec7n nh\u1eadp m\u00f4n l\u1eadp tr\u00ecnh",
+    "intent": "want_to_practice_cpp",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.5613456964492798
+    }
+  },
+  {
+    "text": "gui toi bai c++ nmlt",
+    "intent": "want_to_practice_cpp",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.7458183169364929
+    }
+  },
+  {
+    "text": "tao mu\u1ed1n \u00f4n t\u1eadp v\u1ec1 c++",
+    "intent": "cpp_practice",
+    "intent_prediction": {
+      "name": "want_to_practice_cpp",
+      "confidence": 0.7300543785095215
+    }
+  },
+  {
+    "text": "Alo bot cho m\u00ecnh xin tham kh\u1ea3o m\u1ed9t s\u1ed1 d\u1ea1ng b\u00e0i t\u1eadp v\u1ec1 class v\u1edbi \u1ea1",
+    "intent": "cpp_practice",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.45042163133621216
+    }
+  },
+  {
+    "text": "yo t c\u00f3 h\u1ecfi c\u0111g m \u0111\u00e2u m\u00e0 m c\u1ee9 r\u1ed9n r\u00e0ng th\u1ebf",
+    "intent": "dont_want_to_ask",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.7106034159660339
+    }
+  },
+  {
+    "text": "n\u00e8 bot \u01a1i tui k mu\u1ed1n h\u1ecfi b\u1ea1n \u0111i\u1ec1u g\u00ec \u0111\u00e2u",
+    "intent": "dont_want_to_ask",
+    "intent_prediction": {
+      "name": "stop_asking",
+      "confidence": 0.9120069146156311
+    }
+  },
+  {
+    "text": "l\u1eddi gi\u1ea3i c\u1ef1c k\u00ec chi ti\u1ebft v\u00e0 ch\u1ea5t l\u01b0\u1ee3ng c\u1ee7a c\u00e2u 09 \u0111\u00ea bot eii",
+    "intent": "flowchart_asking",
+    "intent_prediction": {
+      "name": "dont_want_to_give_flowchart_quest_num",
+      "confidence": 0.8480944633483887
+    }
+  },
+  {
+    "text": "Ng\u00e0y th\u00e1ng n\u0103m?",
+    "intent": "date",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.608075737953186
+    }
+  },
+  {
+    "text": "date ?",
+    "intent": "date",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.2701738774776459
+    }
+  },
+  {
+    "text": "\u00ea \u00ea t k m\u00fan l\u00e0m z\u1ecb r s",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.9455523490905762
+    }
+  },
+  {
+    "text": "Is it ok if I dont want to answer that questions ?",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "dont_want_to_ask",
+      "confidence": 0.479481965303421
+    }
+  },
+  {
+    "text": "GUI DAI VAI CAU RANDOM CUNG DC R MA???",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7650978565216064
+    }
+  },
+  {
+    "text": "Gui dai vai cau random cung dc r ma???",
+    "intent": "dont_want_to_give_flowchart_quest_num",
+    "intent_prediction": {
+      "name": "flowchart_asking",
+      "confidence": 0.609463632106781
+    }
+  },
+  {
+    "text": "t\u1ea1i s t l\u1ea1i ph\u1ea3i n\u00f3i r\u00f5 l\u00e0 l\u00e0m b\u00e0i n\u00e0o",
+    "intent": "dont_want_to_give_cpp_content",
+    "intent_prediction": {
+      "name": "dont_want_to_give_flowchart_quest_num",
+      "confidence": 0.8339575529098511
+    }
+  },
+  {
+    "text": "COI C\u00c1C VIDEO V\u1ec0 C++",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.4322777986526489
+    }
+  },
+  {
+    "text": "coi c\u00e1c video v\u1ec1 c++",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.7735142111778259
+    }
+  },
+  {
+    "text": "\u00ca cho xin video v\u1ec1 c++ \u0111i",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.4841572344303131
+    }
+  },
+  {
+    "text": "video tu\u1ea7n 1",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.30712538957595825
+    }
+  },
+  {
+    "text": "C++ programming tutorials",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.94791579246521
+    }
+  },
+  {
+    "text": "cho em xem 1 so video day ve nmlt ben uit voi a",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "cpplus_specific_video_tutorial_asking",
+      "confidence": 0.5096450448036194
+    }
+  },
+  {
+    "text": "t muon xem 1 so video huong dan hoc nmlt",
+    "intent": "want_to_watch_cpp_tutorial",
+    "intent_prediction": {
+      "name": "cpplus_why_asking",
+      "confidence": 0.2560175061225891
+    }
+  },
+  {
+    "text": "VIDEO GI\u1edaI THI\u1ec6U M\u00d4N NMLT",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.9724839329719543
+    }
+  },
+  {
+    "text": "C\u00c1C VIDEO GI\u1edaI THI\u1ec6U V\u1ec0 NMLT",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.6322867274284363
+    }
+  },
+  {
+    "text": "\u00ea bot g\u1eedi t link b\u00e0i comment \u0111i",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "want_to_practice_cpp",
+      "confidence": 0.42639970779418945
+    }
+  },
+  {
+    "text": "N\u00e8 bot ngu \u0111\u01b0a tao link video library c++ coi m\u00e0y",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.9654812216758728
+    }
+  },
+  {
+    "text": "BAI GIANG VE TOAN TU TRONG C++",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.6998266577720642
+    }
+  },
+  {
+    "text": "video gioi thieu mon NMLT",
+    "intent": "cpplus_specific_video_tutorial_asking",
+    "intent_prediction": {
+      "name": "want_to_watch_cpp_tutorial",
+      "confidence": 0.8716138005256653
+    }
+  }
+]
