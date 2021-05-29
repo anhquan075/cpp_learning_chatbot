@@ -1,0 +1,162 @@
+[
+  {
+    "text": ".",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5227014422416687
+    }
+  },
+  {
+    "text": "l\u00f4",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "attention",
+      "confidence": 0.9401858448982239
+    }
+  },
+  {
+    "text": "H\u00da",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5253878831863403
+    }
+  },
+  {
+    "text": "h\u00fa",
+    "intent": "attention",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5253878831863403
+    }
+  },
+  {
+    "text": "Ok nha",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thanks",
+      "confidence": 0.653813362121582
+    }
+  },
+  {
+    "text": "C\u00f3",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.9564208388328552
+    }
+  },
+  {
+    "text": ":(",
+    "intent": "feeling_bad",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.5227014422416687
+    }
+  },
+  {
+    "text": "D\u1eb9p",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.6589720845222473
+    }
+  },
+  {
+    "text": "C\u00fat",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.8497554063796997
+    }
+  },
+  {
+    "text": "hong",
+    "intent": "stop_asking",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5147805213928223
+    }
+  },
+  {
+    "text": "N\u00f3 ch\u1ea1y nh\u01b0 th\u1ebf no\u00e0",
+    "intent": "continue_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.6926289796829224
+    }
+  },
+  {
+    "text": "H\u1eceI L\u1ea0I",
+    "intent": "want_to_ask",
+    "intent_prediction": {
+      "name": "continue_asking",
+      "confidence": 0.6351485848426819
+    }
+  },
+  {
+    "text": "con c\u1eb7c l\u00e0 g\u00ec",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "insult",
+      "confidence": 0.49216336011886597
+    }
+  },
+  {
+    "text": "/c\u00e2u 3",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "flowchart_asking",
+      "confidence": 0.6211195588111877
+    }
+  },
+  {
+    "text": "/hi",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.759175717830658
+    }
+  },
+  {
+    "text": "CU PHAP STRUCT LA GI",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "cpplus_how_asking",
+      "confidence": 0.6339651942253113
+    }
+  },
+  {
+    "text": "C\u1ea4U TR\u00daC L\u00c0 G\u00cc?",
+    "intent": "cpplus_what_asking",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.7986453771591187
+    }
+  },
+  {
+    "text": "C\u00e2nnjdjdkaka l\u00e0 g\u00ec?",
+    "intent": "nlu_fallback",
+    "intent_prediction": {
+      "name": "last_name",
+      "confidence": 0.0016917247558012605
+    }
+  },
+  {
+    "text": "G\u00e9t :3",
+    "intent": "nlu_fallback",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.0015663013327866793
+    }
+  },
+  {
+    "text": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p100x100/65882783_2398656156862083_8186027788650676224_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=4rqNta98n34AX-N86gg&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=ab4cd82706a6d74f545e19bdeb24d0ed&oe=6009FF31",
+    "intent": "nlu_fallback",
+    "intent_prediction": {
+      "name": "feeling_bad",
+      "confidence": 0.002214702544733882
+    }
+  }
+]
