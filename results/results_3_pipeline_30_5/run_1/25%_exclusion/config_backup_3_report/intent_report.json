@@ -1,0 +1,357 @@
+{
+  "deny": {
+    "precision": 0.8648648648648649,
+    "recall": 0.8,
+    "f1-score": 0.8311688311688312,
+    "support": 40,
+    "confused_with": {
+      "who_are_you": 3,
+      "cpplus_what_asking": 2
+    }
+  },
+  "dont_want_to_give_cpp_content": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2,
+    "confused_with": {
+      "dont_want_to_give_flowchart_quest_num": 1,
+      "want_to_practice_flowchart": 1
+    }
+  },
+  "flowchart_asking": {
+    "precision": 0.9333333333333333,
+    "recall": 0.8484848484848485,
+    "f1-score": 0.888888888888889,
+    "support": 33,
+    "confused_with": {
+      "out_of_scope": 2,
+      "want_to_watch_cpp_tutorial": 1
+    }
+  },
+  "cpplus_how_asking": {
+    "precision": 0.9417989417989417,
+    "recall": 0.9621621621621622,
+    "f1-score": 0.9518716577540107,
+    "support": 185,
+    "confused_with": {
+      "cpplus_what_asking": 3,
+      "out_of_scope": 1
+    }
+  },
+  "want_to_watch_cpp_tutorial": {
+    "precision": 0.7857142857142857,
+    "recall": 0.8048780487804879,
+    "f1-score": 0.7951807228915663,
+    "support": 41,
+    "confused_with": {
+      "cpplus_specific_video_tutorial_asking": 4,
+      "want_to_practice_cpp": 2
+    }
+  },
+  "time": {
+    "precision": 0.6666666666666666,
+    "recall": 0.5,
+    "f1-score": 0.5714285714285715,
+    "support": 4,
+    "confused_with": {
+      "out_of_scope": 2
+    }
+  },
+  "attention": {
+    "precision": 0.5625,
+    "recall": 0.6923076923076923,
+    "f1-score": 0.6206896551724138,
+    "support": 13,
+    "confused_with": {
+      "greet": 3,
+      "affirm": 1
+    }
+  },
+  "stop_asking": {
+    "precision": 0.9,
+    "recall": 0.8181818181818182,
+    "f1-score": 0.8571428571428572,
+    "support": 33,
+    "confused_with": {
+      "compliment": 2,
+      "affirm": 1
+    }
+  },
+  "goodbye": {
+    "precision": 0.6666666666666666,
+    "recall": 0.2857142857142857,
+    "f1-score": 0.4,
+    "support": 7,
+    "confused_with": {
+      "insult": 1,
+      "who_are_you": 1
+    }
+  },
+  "health_inquire": {
+    "precision": 0.8928571428571429,
+    "recall": 0.9615384615384616,
+    "f1-score": 0.9259259259259259,
+    "support": 52,
+    "confused_with": {
+      "feeling_good": 1,
+      "cpplus_how_asking": 1
+    }
+  },
+  "want_to_practice_flowchart": {
+    "precision": 0.8333333333333334,
+    "recall": 0.8928571428571429,
+    "f1-score": 0.8620689655172413,
+    "support": 28,
+    "confused_with": {
+      "cpplus_specific_video_tutorial_asking": 1,
+      "cpp_practice": 1
+    }
+  },
+  "corona": {
+    "precision": 0.875,
+    "recall": 0.9333333333333333,
+    "f1-score": 0.9032258064516129,
+    "support": 15,
+    "confused_with": {
+      "cpplus_what_asking": 1
+    }
+  },
+  "compliment": {
+    "precision": 0.5,
+    "recall": 0.7142857142857143,
+    "f1-score": 0.588235294117647,
+    "support": 21,
+    "confused_with": {
+      "feeling_good": 2,
+      "health_inquire": 1
+    }
+  },
+  "feeling_bad": {
+    "precision": 0.8,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.47058823529411764,
+    "support": 12,
+    "confused_with": {
+      "cpplus_what_asking": 2,
+      "compliment": 2
+    }
+  },
+  "cpplus_specific_video_tutorial_asking": {
+    "precision": 0.7428571428571429,
+    "recall": 0.7878787878787878,
+    "f1-score": 0.7647058823529412,
+    "support": 33,
+    "confused_with": {
+      "want_to_watch_cpp_tutorial": 3,
+      "cpplus_what_asking": 2
+    }
+  },
+  "cpplus_example_asking": {
+    "precision": 0.9016393442622951,
+    "recall": 0.9821428571428571,
+    "f1-score": 0.9401709401709402,
+    "support": 56,
+    "confused_with": {
+      "cpplus_what_asking": 1
+    }
+  },
+  "thanks": {
+    "precision": 0.7692307692307693,
+    "recall": 0.7142857142857143,
+    "f1-score": 0.7407407407407408,
+    "support": 14,
+    "confused_with": {
+      "insult": 2,
+      "affirm": 1
+    }
+  },
+  "cpplus_when_asking": {
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1-score": 0.8571428571428571,
+    "support": 4,
+    "confused_with": {
+      "cpplus_what_asking": 1
+    }
+  },
+  "insult": {
+    "precision": 0.7916666666666666,
+    "recall": 0.8260869565217391,
+    "f1-score": 0.8085106382978724,
+    "support": 46,
+    "confused_with": {
+      "cpplus_what_asking": 2,
+      "who_create_you": 1
+    }
+  },
+  "cpplus_why_asking": {
+    "precision": 0.9306930693069307,
+    "recall": 0.9215686274509803,
+    "f1-score": 0.9261083743842364,
+    "support": 102,
+    "confused_with": {
+      "cpplus_what_asking": 3,
+      "who_create_you": 1
+    }
+  },
+  "who_are_you": {
+    "precision": 0.7222222222222222,
+    "recall": 0.8297872340425532,
+    "f1-score": 0.7722772277227723,
+    "support": 47,
+    "confused_with": {
+      "out_of_scope": 2,
+      "insult": 1
+    }
+  },
+  "who_create_you": {
+    "precision": 0.7777777777777778,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.717948717948718,
+    "support": 21,
+    "confused_with": {
+      "who_are_you": 2,
+      "cpplus_example_asking": 1
+    }
+  },
+  "dont_want_to_ask": {
+    "precision": 1.0,
+    "recall": 0.7142857142857143,
+    "f1-score": 0.8333333333333333,
+    "support": 7,
+    "confused_with": {
+      "health_inquire": 1,
+      "stop_asking": 1
+    }
+  },
+  "cpp_practice": {
+    "precision": 0.7272727272727273,
+    "recall": 0.7272727272727273,
+    "f1-score": 0.7272727272727273,
+    "support": 11,
+    "confused_with": {
+      "cpplus_specific_video_tutorial_asking": 1,
+      "want_to_watch_cpp_tutorial": 1
+    }
+  },
+  "dont_want_to_give_flowchart_quest_num": {
+    "precision": 0.9523809523809523,
+    "recall": 0.6896551724137931,
+    "f1-score": 0.7999999999999999,
+    "support": 29,
+    "confused_with": {
+      "cpplus_why_asking": 5,
+      "out_of_scope": 2
+    }
+  },
+  "feeling_good": {
+    "precision": 0.6086956521739131,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.6363636363636365,
+    "support": 21,
+    "confused_with": {
+      "health_inquire": 3,
+      "cpplus_how_asking": 1
+    }
+  },
+  "cpplus_where_asking": {
+    "precision": 1.0,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.5,
+    "support": 3,
+    "confused_with": {
+      "who_create_you": 1,
+      "out_of_scope": 1
+    }
+  },
+  "continue_asking": {
+    "precision": 0.6666666666666666,
+    "recall": 0.46153846153846156,
+    "f1-score": 0.5454545454545455,
+    "support": 13,
+    "confused_with": {
+      "affirm": 2,
+      "compliment": 2
+    }
+  },
+  "affirm": {
+    "precision": 0.2727272727272727,
+    "recall": 0.2727272727272727,
+    "f1-score": 0.2727272727272727,
+    "support": 11,
+    "confused_with": {
+      "deny": 2,
+      "compliment": 1
+    }
+  },
+  "date": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 3,
+    "confused_with": {
+      "continue_asking": 1
+    }
+  },
+  "want_to_practice_cpp": {
+    "precision": 0.8064516129032258,
+    "recall": 0.8928571428571429,
+    "f1-score": 0.8474576271186439,
+    "support": 28,
+    "confused_with": {
+      "want_to_watch_cpp_tutorial": 2,
+      "cpplus_specific_video_tutorial_asking": 1
+    }
+  },
+  "cpplus_what_asking": {
+    "precision": 0.8226600985221675,
+    "recall": 0.8652849740932642,
+    "f1-score": 0.8434343434343434,
+    "support": 193,
+    "confused_with": {
+      "who_are_you": 7,
+      "out_of_scope": 5
+    }
+  },
+  "greet": {
+    "precision": 0.7272727272727273,
+    "recall": 0.8,
+    "f1-score": 0.761904761904762,
+    "support": 30,
+    "confused_with": {
+      "attention": 5,
+      "out_of_scope": 1
+    }
+  },
+  "out_of_scope": {
+    "precision": 0.24,
+    "recall": 0.14285714285714285,
+    "f1-score": 0.1791044776119403,
+    "support": 42,
+    "confused_with": {
+      "cpplus_what_asking": 13,
+      "compliment": 5
+    }
+  },
+  "want_to_ask": {
+    "precision": 0.875,
+    "recall": 1.0,
+    "f1-score": 0.9333333333333333,
+    "support": 28,
+    "confused_with": {}
+  },
+  "accuracy": 0.8200325732899023,
+  "macro avg": {
+    "precision": 0.7587985696422482,
+    "recall": 0.6931039702765933,
+    "f1-score": 0.7106973385448371,
+    "support": 1228
+  },
+  "weighted avg": {
+    "precision": 0.8154685903000782,
+    "recall": 0.8200325732899023,
+    "f1-score": 0.8132559471061594,
+    "support": 1228
+  }
+}
