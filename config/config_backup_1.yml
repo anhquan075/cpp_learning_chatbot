@@ -12,7 +12,7 @@ pipeline:
   # retrieve the same vector, if set to `False`. For some
   # applications and models it makes sense to differentiate
   # between these two words, therefore setting this to `True`.
-  case_sensitive: False
+  case_sensitive: True
 - name: "SpacyTokenizer"
   # Flag to check whether to split intents
   "intent_tokenization_flag": False
@@ -37,7 +37,9 @@ pipeline:
   ]
 - name: "DIETClassifier"
   entity_recognition: False
-  epochs: 300
+  epochs: 200
+  tensorboard_log_directory: "./tensorboard"
+  tensorboard_log_level: "epoch"
 - name: "CRFEntityExtractor"
   "BILOU_flag": True
   # features to extract in the sliding window

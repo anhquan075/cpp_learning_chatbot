@@ -21,9 +21,14 @@ pipeline:
   model_name: "roberta"
   model_weights: "roberta-large"
   cache_dir: null
+- name: LexicalSyntacticFeaturizer
+  "features": [
+    ["low", "title", "upper"],
+    ["BOS", "EOS", "low", "upper", "title", "digit"],
+    ["low", "title", "upper"],
+  ]
 - name: "DIETClassifier"
-  epochs: 50
-  batch_size: 256
+  epochs: 200
   use_masked_language_model: True
   tensorboard_log_directory: "./results/tensorboard"
   tensorboard_log_level: "epoch"
