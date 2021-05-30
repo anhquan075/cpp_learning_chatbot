@@ -37,8 +37,8 @@ pipeline:
   ]
 - name: "DIETClassifier"
   entity_recognition: False
-  epochs: 200
-  tensorboard_log_directory: "./tensorboard"
+  epochs: 300
+  tensorboard_log_directory: "./tensorboard/Spacy"
   tensorboard_log_level: "epoch"
 - name: "CRFEntityExtractor"
   "BILOU_flag": True
@@ -84,5 +84,5 @@ policies:
   - name: TEDPolicy
     max_history: 3
     random_seed: 42
-    epochs: 100
+    epochs: 200
   - name: RulePolicy
