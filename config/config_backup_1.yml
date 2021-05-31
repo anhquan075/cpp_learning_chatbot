@@ -37,8 +37,8 @@ pipeline:
   ]
 - name: "DIETClassifier"
   entity_recognition: False
-  epochs: 300
-  tensorboard_log_directory: "./tensorboard/Spacy"
+  epochs: 200
+  tensorboard_log_directory: "./tensorboard/Spacy_200/"
   tensorboard_log_level: "epoch"
 - name: "CRFEntityExtractor"
   "BILOU_flag": True
